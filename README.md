@@ -186,7 +186,7 @@ Perfect for **personal budgeting** and **financial self-awareness**.
 ├── Notebooks/
 │   └── micro_leakage_analysis.ipynb  # Python notebook
 ├── SQL/
-│   └── leakage_queries.sql           # SQL scripts
+│   └── main_sql_queries.sql           # SQL scripts
 ├── Dashboard/
 │   └── personal_finance_dashboard.pbix
 ├── Data/
