@@ -146,7 +146,7 @@ Perfect for **personal budgeting** and **financial self-awareness**.
 - ⚠️ 4-5% of transactions are micro leakage
 - 🍽️ Top leakage sources: Dining Out, Medical, Fuel
 - ⏰ Leakage spikes in evenings/weekdays
-- 💳 Debit Card & Net Banking dominate micro spends
+- 💳 UPI, Debit Card & Net Banking dominate micro spends
 - 📆 Post-salary dates show leakage surges
 
 ---
