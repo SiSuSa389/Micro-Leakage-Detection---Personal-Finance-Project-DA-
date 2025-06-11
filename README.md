@@ -199,7 +199,6 @@ Perfect for **personal budgeting** and **financial self-awareness**.
 ├── Report/
 │   └── Final_Report.pdf
 ├── README.md
-└── LICENSE
 ```
 
 ---
@@ -215,10 +214,3 @@ Perfect for **personal budgeting** and **financial self-awareness**.
 
 Feel free to raise issues or contribute enhancements to this repo! Pull requests are welcome 🙌
 
----
-
-**License**: MIT © 2025
-
----
-
-Let me know if you'd like a version with links to actual internal sections instead of placeholders or with badges for GitHub stars, forks, etc.
