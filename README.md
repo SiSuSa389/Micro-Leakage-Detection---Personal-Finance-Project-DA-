@@ -4,7 +4,7 @@ This repository contains the code, data, and documentation for a **personal fina
 
 ---
 
-## 📚 Table of Contents
+## 📚 Table of Contents (Detailed walkthrough in the Report)
 
 1. [Executive Summary](#1-executive-summary)
 2. [Problem Statement](#2-problem-statement)
