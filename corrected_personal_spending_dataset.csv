@@ -1,0 +1,1092 @@
+Id,Date,type,category,value,Is_Necessary,payment_mode,is_recurring,context,time_block,day_type,cummulative monthly spend
+1,01-01-2023,expense,Education,1217,Yes,Debit Card,No,Planned,Afternoon,Weekend,1217
+2,01-01-2023,income,Bonus,2245,No,Credit Card,No,Unplanned,Afternoon,Weekend,
+3,01-01-2023,expense,Education,525,Yes,Debit Card,No,Planned,Morning,Weekend,1742
+4,02-01-2023,expense,Entertainment,194,No,UPI,No,Unplanned,Morning,Weekday,1936
+5,02-01-2023,expense,Clothing,208,No,Cash,No,Seasonal,Morning,Weekday,2144
+6,02-01-2023,expense,Dining Out,151,No,UPI,No,Unplanned,Afternoon,Weekday,2295
+7,03-01-2023,expense,Travel,727,No,UPI,No,Seasonal,Afternoon,Weekday,3022
+8,03-01-2023,expense,Subscription,35,No,Cash,Yes,Routine,Night,Weekday,3057
+9,03-01-2023,expense,Education,482,Yes,Cash,No,Planned,Evening,Weekday,3539
+10,04-01-2023,expense,Travel,586,No,Debit Card,No,Seasonal,Morning,Weekday,4125
+11,04-01-2023,savings,Recurring Deposit,268,No,Debit Card,Yes,Routine,Afternoon,Weekday,
+12,04-01-2023,expense,Rent,1978,Yes,Net Banking,Yes,Routine,Afternoon,Weekday,6103
+13,04-01-2023,expense,Subscription,105,No,Debit Card,Yes,Unplanned,Morning,Weekday,6208
+14,05-01-2023,expense,EMI,798,Yes,UPI,Yes,Planned,Evening,Weekday,7006
+15,05-01-2023,savings,Fixed Deposit,2030,No,Cash,No,Unplanned,Morning,Weekday,
+16,07-01-2023,expense,EMI,1290,Yes,Cash,Yes,Planned,Evening,Weekend,8296
+17,07-01-2023,expense,EMI,803,Yes,Cash,Yes,Planned,Afternoon,Weekend,9099
+18,08-01-2023,expense,Groceries,347,Yes,Credit Card,No,Routine,Evening,Weekend,9446
+19,09-01-2023,expense,Groceries,319,Yes,Net Banking,No,Routine,Night,Weekday,9765
+20,09-01-2023,expense,Mobile Recharge,51,Yes,Credit Card,No,Routine,Afternoon,Weekday,9816
+21,09-01-2023,expense,EMI,668,Yes,Credit Card,Yes,Planned,Night,Weekday,10484
+22,10-01-2023,expense,EMI,1032,Yes,Cash,Yes,Planned,Morning,Weekday,11516
+23,11-01-2023,expense,Dining Out,35,No,Cash,No,Unplanned,Morning,Weekday,11551
+24,11-01-2023,expense,Utilities,464,Yes,Cash,No,Routine,Morning,Weekday,12015
+25,11-01-2023,expense,Fuel,135,No,Cash,No,Unplanned,Evening,Weekday,12150
+26,12-01-2023,savings,Recurring Deposit,422,No,Debit Card,Yes,Planned,Afternoon,Weekday,
+27,12-01-2023,expense,Groceries,608,Yes,Debit Card,No,Routine,Morning,Weekday,12758
+28,13-01-2023,savings,Fixed Deposit,1475,No,Debit Card,No,Planned,Morning,Weekday,
+29,13-01-2023,expense,Clothing,203,No,Cash,No,Seasonal,Afternoon,Weekday,12961
+30,13-01-2023,savings,Stock Investment,384,No,UPI,No,Planned,Morning,Weekday,
+31,13-01-2023,expense,Travel,955,No,UPI,No,Seasonal,Night,Weekday,13916
+32,14-01-2023,expense,EMI,761,Yes,Debit Card,Yes,Planned,Afternoon,Weekend,14677
+33,14-01-2023,income,Bonus,836,No,UPI,No,Routine,Afternoon,Weekend,
+34,14-01-2023,expense,Groceries,321,Yes,Credit Card,No,Routine,Afternoon,Weekend,14998
+35,15-01-2023,expense,Groceries,411,Yes,UPI,No,Routine,Night,Weekend,15409
+36,15-01-2023,income,Salary,2720,No,UPI,Yes,Routine,Afternoon,Weekend,
+37,15-01-2023,expense,Entertainment,157,No,Net Banking,No,Unplanned,Night,Weekend,15566
+38,15-01-2023,expense,Rent,1375,Yes,Credit Card,Yes,Planned,Afternoon,Weekend,16941
+39,16-01-2023,expense,Clothing,411,No,UPI,No,Seasonal,Evening,Weekday,17352
+40,16-01-2023,expense,Mobile Recharge,82,Yes,Net Banking,No,Routine,Morning,Weekday,17434
+41,16-01-2023,income,Freelance,529,No,UPI,No,Routine,Evening,Weekday,
+42,17-01-2023,expense,EMI,677,Yes,UPI,Yes,Planned,Morning,Weekday,18111
+43,17-01-2023,expense,Mobile Recharge,76,Yes,Cash,No,Routine,Night,Weekday,18187
+44,17-01-2023,expense,Education,816,Yes,Cash,No,Planned,Evening,Weekday,19003
+45,17-01-2023,expense,Rent,1500,Yes,Cash,Yes,Planned,Afternoon,Weekday,20503
+46,17-01-2023,income,Salary,7191,No,Cash,Yes,Unplanned,Morning,Weekday,
+47,18-01-2023,expense,Rent,1662,Yes,Debit Card,Yes,Planned,Morning,Weekday,22165
+48,18-01-2023,expense,Fuel,96,No,Debit Card,No,Unplanned,Evening,Weekday,22261
+49,19-01-2023,savings,Mutual Fund,173,No,UPI,No,Unplanned,Night,Weekday,
+50,19-01-2023,expense,EMI,795,Yes,Net Banking,Yes,Planned,Evening,Weekday,23056
+51,19-01-2023,expense,Entertainment,55,No,Net Banking,No,Unplanned,Night,Weekday,23111
+52,20-01-2023,savings,Fixed Deposit,1450,No,Credit Card,No,Routine,Night,Weekday,
+53,20-01-2023,expense,Education,1537,Yes,Debit Card,No,Planned,Morning,Weekday,24648
+54,21-01-2023,expense,EMI,845,Yes,Net Banking,Yes,Planned,Evening,Weekend,25493
+55,21-01-2023,savings,Gold,1027,No,Net Banking,No,Seasonal,Evening,Weekend,
+56,21-01-2023,expense,Fuel,115,No,Cash,No,Unplanned,Night,Weekend,25608
+57,21-01-2023,savings,Fixed Deposit,1300,No,Credit Card,No,Planned,Evening,Weekend,
+58,21-01-2023,expense,Fuel,201,No,Credit Card,No,Unplanned,Afternoon,Weekend,25809
+59,21-01-2023,savings,Stock Investment,339,No,Credit Card,No,Routine,Afternoon,Weekend,
+60,23-01-2023,income,Freelance,916,No,Cash,No,Unplanned,Evening,Weekday,
+61,23-01-2023,savings,Recurring Deposit,432,No,Cash,Yes,Unplanned,Evening,Weekday,
+62,23-01-2023,income,Bonus,2244,No,Cash,No,Unplanned,Night,Weekday,
+63,23-01-2023,income,Interest,66,No,Net Banking,No,Routine,Afternoon,Weekday,
+64,24-01-2023,expense,Subscription,105,No,UPI,Yes,Routine,Afternoon,Weekday,25914
+65,25-01-2023,income,Salary,7555,No,Net Banking,Yes,Routine,Morning,Weekday,
+66,25-01-2023,expense,Dining Out,36,No,Debit Card,No,Unplanned,Night,Weekday,25950
+67,25-01-2023,expense,Groceries,459,Yes,Net Banking,No,Routine,Morning,Weekday,26409
+68,25-01-2023,income,Salary,6577,No,Net Banking,Yes,Routine,Afternoon,Weekday,
+69,26-01-2023,expense,Entertainment,206,No,Credit Card,No,Unplanned,Night,Weekday,26615
+70,26-01-2023,income,Freelance,656,No,Net Banking,No,Unplanned,Evening,Weekday,
+71,27-01-2023,expense,Medical,218,Yes,UPI,No,Emergency,Night,Weekday,26833
+72,28-01-2023,expense,Dining Out,93,No,Net Banking,No,Unplanned,Evening,Weekend,26926
+73,30-01-2023,income,Bonus,1988,No,Debit Card,No,Unplanned,Evening,Weekday,
+74,30-01-2023,expense,Rent,1495,Yes,Cash,Yes,Planned,Night,Weekday,28421
+75,30-01-2023,expense,Entertainment,130,No,UPI,No,Unplanned,Evening,Weekday,28551
+76,30-01-2023,expense,Dining Out,76,No,Debit Card,No,Unplanned,Morning,Weekday,28627
+77,31-01-2023,expense,Dining Out,111,No,Net Banking,No,Unplanned,Afternoon,Weekday,28738
+78,31-01-2023,expense,Travel,721,No,Net Banking,No,Seasonal,Evening,Weekday,29459
+1,01-02-2023,expense,Entertainment,100,No,Debit Card,No,Unplanned,Morning,Weekday,100
+2,01-02-2023,savings,Piggy Bank,60,No,Credit Card,No,Planned,Evening,Weekday,
+3,01-02-2023,income,Interest,56,No,Debit Card,No,Routine,Afternoon,Weekday,
+4,01-02-2023,expense,Clothing,243,No,Credit Card,No,Seasonal,Morning,Weekday,343
+5,02-02-2023,expense,Groceries,805,Yes,Net Banking,No,Routine,Afternoon,Weekday,1148
+6,02-02-2023,expense,Rent,2656,Yes,Net Banking,Yes,Unplanned,Afternoon,Weekday,3804
+7,02-02-2023,expense,Rent,2932,Yes,UPI,Yes,Unplanned,Morning,Weekday,6736
+8,03-02-2023,income,Interest,121,No,Cash,No,Unplanned,Morning,Weekday,
+9,03-02-2023,expense,Medical,1121,Yes,Debit Card,No,Emergency,Morning,Weekday,7857
+10,03-02-2023,expense,Subscription,138,No,Credit Card,Yes,Planned,Night,Weekday,7995
+11,04-02-2023,expense,Utilities,352,Yes,Net Banking,No,Routine,Morning,Weekend,8347
+12,04-02-2023,expense,Travel,283,No,Credit Card,No,Seasonal,Morning,Weekend,8630
+13,05-02-2023,expense,Education,1999,Yes,UPI,No,Planned,Morning,Weekend,10629
+14,05-02-2023,expense,Utilities,420,Yes,Credit Card,No,Routine,Morning,Weekend,11049
+15,05-02-2023,savings,Mutual Fund,752,No,Cash,No,Planned,Evening,Weekend,
+16,06-02-2023,savings,Stock Investment,492,No,Cash,No,Unplanned,Night,Weekday,
+17,06-02-2023,expense,Medical,883,Yes,Credit Card,No,Emergency,Afternoon,Weekday,11932
+18,06-02-2023,expense,Fuel,103,No,UPI,No,Unplanned,Morning,Weekday,12035
+19,07-02-2023,savings,Stock Investment,208,No,Credit Card,No,Unplanned,Evening,Weekday,
+20,08-02-2023,expense,Groceries,375,Yes,Credit Card,No,Routine,Evening,Weekday,12410
+21,08-02-2023,expense,Subscription,190,No,Debit Card,Yes,Unplanned,Evening,Weekday,12600
+22,09-02-2023,expense,Rent,2301,Yes,Cash,Yes,Planned,Afternoon,Weekday,14901
+23,09-02-2023,expense,Groceries,612,Yes,UPI,No,Routine,Morning,Weekday,15513
+24,09-02-2023,expense,Subscription,40,No,Debit Card,Yes,Unplanned,Night,Weekday,15553
+25,10-02-2023,expense,Utilities,688,Yes,Debit Card,No,Routine,Night,Weekday,16241
+26,10-02-2023,expense,Clothing,326,No,Net Banking,No,Seasonal,Evening,Weekday,16567
+27,11-02-2023,expense,Utilities,475,Yes,Net Banking,No,Routine,Afternoon,Weekend,17042
+28,11-02-2023,expense,EMI,1059,Yes,Cash,Yes,Planned,Afternoon,Weekend,18101
+29,11-02-2023,expense,Groceries,707,Yes,UPI,No,Routine,Afternoon,Weekend,18808
+30,11-02-2023,expense,Fuel,301,No,Net Banking,No,Unplanned,Night,Weekend,19109
+31,13-02-2023,expense,Mobile Recharge,39,Yes,Cash,No,Routine,Evening,Weekday,19148
+32,13-02-2023,expense,Subscription,205,No,UPI,Yes,Unplanned,Morning,Weekday,19353
+33,14-02-2023,expense,Rent,2353,Yes,Debit Card,Yes,Routine,Night,Weekday,21706
+34,14-02-2023,expense,Rent,2521,Yes,Net Banking,Yes,Routine,Evening,Weekday,24227
+35,14-02-2023,expense,Rent,1565,Yes,Cash,Yes,Planned,Evening,Weekday,25792
+36,16-02-2023,expense,Rent,2394,Yes,UPI,Yes,Unplanned,Morning,Weekday,28186
+37,16-02-2023,income,Salary,4302,No,Cash,Yes,Unplanned,Morning,Weekday,
+38,16-02-2023,savings,Recurring Deposit,494,No,Cash,Yes,Routine,Morning,Weekday,
+39,17-02-2023,expense,Mobile Recharge,36,Yes,Cash,No,Routine,Afternoon,Weekday,28222
+40,17-02-2023,savings,Stock Investment,617,No,Debit Card,No,Planned,Morning,Weekday,
+41,18-02-2023,income,Salary,7180,No,Debit Card,Yes,Routine,Evening,Weekend,
+42,18-02-2023,income,Freelance,1716,No,Cash,No,Routine,Morning,Weekend,
+43,18-02-2023,expense,Groceries,582,Yes,Debit Card,No,Routine,Evening,Weekend,28804
+44,18-02-2023,income,Interest,132,No,Debit Card,No,Routine,Night,Weekend,
+45,19-02-2023,income,Salary,7321,No,Credit Card,Yes,Routine,Afternoon,Weekend,
+46,19-02-2023,expense,Travel,520,No,Cash,No,Seasonal,Night,Weekend,29324
+47,19-02-2023,expense,Groceries,850,Yes,Net Banking,No,Routine,Night,Weekend,30174
+48,20-02-2023,expense,Subscription,151,No,UPI,Yes,Unplanned,Evening,Weekday,30325
+49,20-02-2023,expense,Mobile Recharge,45,Yes,Cash,No,Routine,Night,Weekday,30370
+50,20-02-2023,expense,Education,1014,Yes,Cash,No,Planned,Evening,Weekday,31384
+51,20-02-2023,expense,Subscription,139,No,Debit Card,Yes,Unplanned,Morning,Weekday,31523
+52,20-02-2023,expense,Entertainment,220,No,Cash,No,Unplanned,Morning,Weekday,31743
+53,20-02-2023,expense,Dining Out,137,No,UPI,No,Unplanned,Evening,Weekday,31880
+54,21-02-2023,income,Interest,85,No,Debit Card,No,Routine,Morning,Weekday,
+55,22-02-2023,expense,Gift,481,No,Net Banking,No,Festive,Afternoon,Weekday,32361
+56,22-02-2023,expense,Education,1181,Yes,Debit Card,No,Planned,Night,Weekday,33542
+57,23-02-2023,expense,Subscription,185,No,Debit Card,Yes,Planned,Afternoon,Weekday,33727
+58,23-02-2023,expense,EMI,829,Yes,UPI,Yes,Planned,Night,Weekday,34556
+59,23-02-2023,expense,Medical,1192,Yes,Credit Card,No,Emergency,Morning,Weekday,35748
+60,25-02-2023,expense,Utilities,361,Yes,Credit Card,No,Routine,Afternoon,Weekend,36109
+61,25-02-2023,expense,Subscription,161,No,UPI,Yes,Planned,Morning,Weekend,36270
+62,26-02-2023,income,Interest,135,No,UPI,No,Planned,Night,Weekend,
+63,26-02-2023,expense,Rent,2182,Yes,Net Banking,Yes,Planned,Evening,Weekend,38452
+64,27-02-2023,expense,Dining Out,76,No,Cash,No,Unplanned,Evening,Weekday,38528
+65,27-02-2023,income,Freelance,1225,No,Cash,No,Routine,Afternoon,Weekday,
+66,27-02-2023,expense,Clothing,404,No,Credit Card,No,Seasonal,Morning,Weekday,38932
+67,28-02-2023,expense,EMI,977,Yes,Cash,Yes,Planned,Morning,Weekday,39909
+1,01-03-2023,expense,Utilities,566,Yes,Net Banking,No,Routine,Afternoon,Weekday,566
+2,01-03-2023,savings,Recurring Deposit,750,No,Cash,Yes,Unplanned,Evening,Weekday,
+3,01-03-2023,expense,Dining Out,171,No,UPI,No,Unplanned,Night,Weekday,737
+4,03-03-2023,expense,Dining Out,261,No,UPI,No,Unplanned,Afternoon,Weekday,998
+5,04-03-2023,income,Salary,9380,No,Cash,Yes,Planned,Night,Weekend,
+6,04-03-2023,income,Freelance,941,No,Credit Card,No,Routine,Evening,Weekend,
+7,05-03-2023,expense,Education,2290,Yes,Cash,No,Planned,Morning,Weekend,3288
+8,05-03-2023,savings,Piggy Bank,85,No,Net Banking,No,Planned,Evening,Weekend,
+9,06-03-2023,savings,Fixed Deposit,2353,No,Debit Card,No,Planned,Afternoon,Weekday,
+10,06-03-2023,expense,Clothing,490,No,Credit Card,No,Seasonal,Morning,Weekday,3778
+11,07-03-2023,expense,Mobile Recharge,73,Yes,UPI,No,Routine,Afternoon,Weekday,3851
+12,07-03-2023,expense,Dining Out,166,No,Net Banking,No,Unplanned,Afternoon,Weekday,4017
+13,07-03-2023,expense,Clothing,368,No,Net Banking,No,Seasonal,Evening,Weekday,4385
+14,08-03-2023,expense,Entertainment,203,No,Debit Card,No,Unplanned,Afternoon,Weekday,4588
+15,08-03-2023,income,Interest,51,No,Credit Card,No,Routine,Evening,Weekday,
+16,10-03-2023,expense,Entertainment,349,No,Credit Card,No,Unplanned,Morning,Weekday,4937
+17,11-03-2023,expense,Dining Out,279,No,UPI,No,Unplanned,Evening,Weekend,5216
+18,11-03-2023,expense,Groceries,756,Yes,Debit Card,No,Routine,Morning,Weekend,5972
+19,11-03-2023,expense,Mobile Recharge,154,Yes,Debit Card,No,Routine,Evening,Weekend,6126
+20,12-03-2023,expense,Dining Out,194,No,UPI,No,Unplanned,Night,Weekend,6320
+21,12-03-2023,expense,Travel,731,No,UPI,No,Seasonal,Night,Weekend,7051
+22,12-03-2023,expense,Utilities,553,Yes,Cash,No,Routine,Afternoon,Weekend,7604
+23,13-03-2023,expense,Dining Out,267,No,Net Banking,No,Unplanned,Evening,Weekday,7871
+24,13-03-2023,expense,Fuel,424,No,UPI,No,Unplanned,Evening,Weekday,8295
+25,13-03-2023,expense,Education,1509,Yes,Net Banking,No,Planned,Morning,Weekday,9804
+26,13-03-2023,expense,Medical,468,Yes,Cash,No,Emergency,Afternoon,Weekday,10272
+27,13-03-2023,expense,Travel,1276,No,Cash,No,Seasonal,Evening,Weekday,11548
+28,13-03-2023,expense,Dining Out,97,No,Net Banking,No,Unplanned,Afternoon,Weekday,11645
+29,14-03-2023,expense,Medical,1287,Yes,Net Banking,No,Emergency,Night,Weekday,12932
+30,14-03-2023,savings,Piggy Bank,114,No,Net Banking,No,Unplanned,Evening,Weekday,
+31,14-03-2023,income,Freelance,852,No,Credit Card,No,Unplanned,Evening,Weekday,
+32,15-03-2023,income,Interest,145,No,Cash,No,Routine,Afternoon,Weekday,
+33,15-03-2023,savings,Piggy Bank,164,No,Credit Card,No,Unplanned,Evening,Weekday,
+34,15-03-2023,savings,Stock Investment,390,No,Cash,No,Routine,Afternoon,Weekday,
+35,16-03-2023,expense,Medical,1358,Yes,UPI,No,Emergency,Evening,Weekday,14290
+36,16-03-2023,expense,Clothing,412,No,UPI,No,Seasonal,Morning,Weekday,14702
+37,16-03-2023,expense,Medical,338,Yes,Debit Card,No,Emergency,Afternoon,Weekday,15040
+38,17-03-2023,expense,Rent,3082,Yes,Credit Card,Yes,Routine,Evening,Weekday,18122
+39,17-03-2023,expense,Clothing,442,No,Cash,No,Seasonal,Night,Weekday,18564
+40,17-03-2023,expense,Dining Out,188,No,Credit Card,No,Unplanned,Evening,Weekday,18752
+41,18-03-2023,income,Bonus,5104,No,UPI,No,Routine,Night,Weekend,
+42,19-03-2023,expense,EMI,1731,Yes,Cash,Yes,Planned,Night,Weekend,20483
+43,19-03-2023,expense,Clothing,407,No,Debit Card,No,Seasonal,Morning,Weekend,20890
+44,19-03-2023,expense,Travel,329,No,Cash,No,Seasonal,Afternoon,Weekend,21219
+45,19-03-2023,expense,Utilities,791,Yes,Credit Card,No,Routine,Evening,Weekend,22010
+46,20-03-2023,expense,Medical,880,Yes,Credit Card,No,Emergency,Morning,Weekday,22890
+47,21-03-2023,expense,EMI,1730,Yes,UPI,Yes,Planned,Evening,Weekday,24620
+48,21-03-2023,expense,Mobile Recharge,133,Yes,Credit Card,No,Routine,Night,Weekday,24753
+49,22-03-2023,expense,Fuel,347,No,Cash,No,Unplanned,Afternoon,Weekday,25100
+50,23-03-2023,expense,Entertainment,324,No,UPI,No,Unplanned,Evening,Weekday,25424
+51,23-03-2023,expense,EMI,1356,Yes,Net Banking,Yes,Planned,Evening,Weekday,26780
+52,24-03-2023,expense,Rent,3282,Yes,UPI,Yes,Unplanned,Night,Weekday,30062
+53,25-03-2023,expense,Medical,1120,Yes,Credit Card,No,Emergency,Evening,Weekend,31182
+54,25-03-2023,expense,Medical,453,Yes,Credit Card,No,Emergency,Evening,Weekend,31635
+55,26-03-2023,expense,Dining Out,284,No,Net Banking,No,Unplanned,Night,Weekend,31919
+56,26-03-2023,expense,Dining Out,248,No,UPI,No,Unplanned,Morning,Weekend,32167
+57,26-03-2023,expense,Mobile Recharge,55,Yes,Credit Card,No,Routine,Night,Weekend,32222
+58,27-03-2023,expense,Fuel,237,No,Debit Card,No,Unplanned,Morning,Weekday,32459
+59,27-03-2023,expense,Medical,625,Yes,Cash,No,Emergency,Afternoon,Weekday,33084
+60,28-03-2023,expense,Utilities,396,Yes,Debit Card,No,Routine,Morning,Weekday,33480
+61,29-03-2023,expense,Rent,2916,Yes,Cash,Yes,Routine,Morning,Weekday,36396
+62,29-03-2023,income,Freelance,763,No,Credit Card,No,Planned,Afternoon,Weekday,
+63,30-03-2023,income,Freelance,2209,No,UPI,No,Unplanned,Morning,Weekday,
+64,31-03-2023,expense,EMI,2148,Yes,Cash,Yes,Planned,Night,Weekday,38544
+65,31-03-2023,expense,Fuel,346,No,UPI,No,Unplanned,Morning,Weekday,38890
+1,01-04-2023,expense,Travel,1275,No,Debit Card,No,Seasonal,Afternoon,Weekend,1275
+2,01-04-2023,expense,Fuel,326,No,Cash,No,Unplanned,Night,Weekend,1601
+3,01-04-2023,income,Salary,7886,No,UPI,Yes,Unplanned,Afternoon,Weekend,
+4,01-04-2023,savings,Stock Investment,459,No,Credit Card,No,Unplanned,Afternoon,Weekend,
+5,01-04-2023,savings,Stock Investment,640,No,UPI,No,Unplanned,Evening,Weekend,
+6,01-04-2023,savings,Recurring Deposit,456,No,Debit Card,Yes,Planned,Evening,Weekend,
+7,02-04-2023,expense,Clothing,429,No,UPI,No,Seasonal,Afternoon,Weekend,2030
+8,03-04-2023,expense,Mobile Recharge,104,Yes,Debit Card,No,Routine,Afternoon,Weekday,2134
+9,03-04-2023,expense,Gift,473,No,UPI,No,Festive,Afternoon,Weekday,2607
+10,05-04-2023,expense,Mobile Recharge,108,Yes,Debit Card,No,Routine,Evening,Weekday,2715
+11,05-04-2023,expense,Clothing,170,No,Credit Card,No,Seasonal,Evening,Weekday,2885
+12,05-04-2023,expense,Fuel,289,No,UPI,No,Unplanned,Morning,Weekday,3174
+13,05-04-2023,expense,Utilities,359,Yes,Cash,No,Routine,Morning,Weekday,3533
+14,05-04-2023,expense,EMI,1608,Yes,Debit Card,Yes,Planned,Afternoon,Weekday,5141
+15,06-04-2023,expense,Education,2195,Yes,Credit Card,No,Planned,Night,Weekday,7336
+16,06-04-2023,expense,Fuel,134,No,Credit Card,No,Unplanned,Night,Weekday,7470
+17,07-04-2023,expense,Utilities,733,Yes,Net Banking,No,Routine,Evening,Weekday,8203
+18,08-04-2023,income,Bonus,2203,No,Cash,No,Unplanned,Evening,Weekend,
+19,11-04-2023,expense,Gift,581,No,Cash,No,Festive,Evening,Weekday,8784
+20,11-04-2023,expense,Dining Out,84,No,UPI,No,Unplanned,Afternoon,Weekday,8868
+21,11-04-2023,expense,Subscription,200,No,Debit Card,Yes,Unplanned,Night,Weekday,9068
+22,12-04-2023,expense,Clothing,462,No,Debit Card,No,Seasonal,Morning,Weekday,9530
+23,13-04-2023,expense,Medical,776,Yes,Net Banking,No,Emergency,Afternoon,Weekday,10306
+24,13-04-2023,expense,Utilities,813,Yes,Cash,No,Routine,Morning,Weekday,11119
+25,13-04-2023,income,Bonus,4687,No,Cash,No,Routine,Morning,Weekday,
+26,13-04-2023,expense,Groceries,442,Yes,Cash,No,Routine,Afternoon,Weekday,11561
+27,13-04-2023,expense,Subscription,241,No,Credit Card,Yes,Unplanned,Morning,Weekday,11802
+28,14-04-2023,income,Bonus,2429,No,Net Banking,No,Planned,Night,Weekday,
+29,14-04-2023,expense,Subscription,65,No,Cash,Yes,Planned,Morning,Weekday,11867
+30,15-04-2023,expense,Fuel,313,No,Debit Card,No,Unplanned,Night,Weekend,12180
+31,15-04-2023,expense,Travel,595,No,Cash,No,Seasonal,Night,Weekend,12775
+32,15-04-2023,expense,EMI,1151,Yes,Debit Card,Yes,Planned,Night,Weekend,13926
+33,16-04-2023,expense,Clothing,247,No,Credit Card,No,Seasonal,Evening,Weekend,14173
+34,17-04-2023,expense,Clothing,612,No,Net Banking,No,Seasonal,Morning,Weekday,14785
+35,18-04-2023,expense,Education,1880,Yes,Credit Card,No,Planned,Afternoon,Weekday,16665
+36,18-04-2023,expense,Subscription,102,No,Debit Card,Yes,Planned,Afternoon,Weekday,16767
+37,19-04-2023,expense,Gift,317,No,Net Banking,No,Festive,Morning,Weekday,17084
+38,19-04-2023,expense,Rent,2030,Yes,UPI,Yes,Planned,Evening,Weekday,19114
+39,19-04-2023,expense,Dining Out,76,No,Debit Card,No,Unplanned,Evening,Weekday,19190
+40,20-04-2023,expense,Entertainment,283,No,Debit Card,No,Unplanned,Night,Weekday,19473
+41,20-04-2023,expense,Medical,662,Yes,Credit Card,No,Emergency,Morning,Weekday,20135
+42,20-04-2023,income,Freelance,802,No,Debit Card,No,Unplanned,Morning,Weekday,
+43,21-04-2023,expense,Dining Out,133,No,Debit Card,No,Unplanned,Afternoon,Weekday,20268
+44,22-04-2023,expense,Mobile Recharge,127,Yes,Debit Card,No,Routine,Morning,Weekend,20395
+45,23-04-2023,expense,Fuel,142,No,Credit Card,No,Unplanned,Evening,Weekend,20537
+46,23-04-2023,expense,Travel,972,No,Cash,No,Seasonal,Morning,Weekend,21509
+47,23-04-2023,income,Salary,4540,No,Net Banking,Yes,Unplanned,Afternoon,Weekend,
+48,23-04-2023,expense,Utilities,766,Yes,Credit Card,No,Routine,Night,Weekend,22275
+49,23-04-2023,expense,Entertainment,110,No,Cash,No,Unplanned,Afternoon,Weekend,22385
+50,24-04-2023,expense,Rent,2631,Yes,Credit Card,Yes,Planned,Afternoon,Weekday,25016
+51,24-04-2023,expense,Dining Out,95,No,Cash,No,Unplanned,Night,Weekday,25111
+52,24-04-2023,income,Bonus,3231,No,UPI,No,Planned,Afternoon,Weekday,
+53,24-04-2023,expense,Entertainment,109,No,Debit Card,No,Unplanned,Afternoon,Weekday,25220
+54,25-04-2023,expense,Gift,490,No,Net Banking,No,Festive,Morning,Weekday,25710
+55,25-04-2023,expense,Entertainment,190,No,Debit Card,No,Unplanned,Morning,Weekday,25900
+56,25-04-2023,expense,Education,2237,Yes,Net Banking,No,Planned,Night,Weekday,28137
+57,26-04-2023,expense,Gift,234,No,Net Banking,No,Festive,Morning,Weekday,28371
+58,26-04-2023,income,Bonus,1194,No,Credit Card,No,Unplanned,Morning,Weekday,
+59,26-04-2023,expense,Fuel,236,No,Cash,No,Unplanned,Afternoon,Weekday,28607
+60,26-04-2023,expense,Rent,2612,Yes,Cash,Yes,Planned,Evening,Weekday,31219
+61,27-04-2023,savings,Stock Investment,559,No,UPI,No,Routine,Morning,Weekday,
+62,28-04-2023,expense,Medical,800,Yes,Cash,No,Emergency,Evening,Weekday,32019
+63,28-04-2023,expense,Gift,161,No,Cash,No,Festive,Morning,Weekday,32180
+64,29-04-2023,expense,Mobile Recharge,40,Yes,UPI,No,Routine,Morning,Weekend,32220
+65,29-04-2023,expense,Travel,1382,No,Net Banking,No,Seasonal,Night,Weekend,33602
+66,29-04-2023,expense,Education,2413,Yes,Net Banking,No,Planned,Night,Weekend,36015
+67,29-04-2023,savings,Fixed Deposit,2100,No,UPI,No,Planned,Night,Weekend,
+68,29-04-2023,savings,Piggy Bank,50,No,Debit Card,No,Planned,Evening,Weekend,
+69,30-04-2023,savings,Gold,624,No,Net Banking,No,Seasonal,Afternoon,Weekend,
+70,30-04-2023,savings,Fixed Deposit,1229,No,Debit Card,No,Routine,Morning,Weekend,
+1,01-05-2023,expense,Utilities,1009,Yes,UPI,No,Routine,Morning,Weekday,1009
+2,01-05-2023,expense,Medical,1759,Yes,Credit Card,No,Emergency,Morning,Weekday,2768
+3,02-05-2023,expense,Education,3293,Yes,Cash,No,Planned,Evening,Weekday,6061
+4,03-05-2023,income,Interest,49,No,Debit Card,No,Routine,Night,Weekday,
+5,04-05-2023,expense,Gift,1181,No,Credit Card,No,Festive,Afternoon,Weekday,7242
+6,04-05-2023,savings,Recurring Deposit,862,No,Credit Card,Yes,Unplanned,Evening,Weekday,
+7,05-05-2023,expense,Clothing,456,No,Cash,No,Seasonal,Night,Weekday,7698
+8,05-05-2023,expense,Rent,3726,Yes,Net Banking,Yes,Unplanned,Evening,Weekday,11424
+9,06-05-2023,income,Freelance,2731,No,Net Banking,No,Routine,Afternoon,Weekend,
+10,06-05-2023,savings,Stock Investment,782,No,UPI,No,Routine,Night,Weekend,
+11,06-05-2023,expense,Utilities,673,Yes,Debit Card,No,Routine,Evening,Weekend,12097
+12,06-05-2023,expense,Clothing,337,No,Cash,No,Seasonal,Afternoon,Weekend,12434
+13,07-05-2023,expense,Utilities,1458,Yes,Debit Card,No,Routine,Morning,Weekend,13892
+14,07-05-2023,income,Interest,183,No,Debit Card,No,Unplanned,Afternoon,Weekend,
+15,07-05-2023,expense,Utilities,671,Yes,Credit Card,No,Routine,Morning,Weekend,14563
+16,07-05-2023,expense,Travel,1024,No,Net Banking,No,Seasonal,Evening,Weekend,15587
+17,07-05-2023,expense,Subscription,356,No,Cash,Yes,Planned,Night,Weekend,15943
+18,08-05-2023,expense,Utilities,1254,Yes,Credit Card,No,Routine,Night,Weekday,17197
+19,08-05-2023,expense,Utilities,920,Yes,Cash,No,Routine,Evening,Weekday,18117
+20,09-05-2023,expense,Groceries,748,Yes,Net Banking,No,Routine,Night,Weekday,18865
+21,09-05-2023,expense,Groceries,1848,Yes,Cash,No,Routine,Night,Weekday,20713
+22,11-05-2023,expense,Travel,1238,No,Debit Card,No,Seasonal,Morning,Weekday,21951
+23,11-05-2023,income,Salary,17158,No,Cash,Yes,Routine,Evening,Weekday,
+24,12-05-2023,expense,Clothing,307,No,UPI,No,Seasonal,Afternoon,Weekday,22258
+25,14-05-2023,expense,Utilities,1152,Yes,Cash,No,Routine,Morning,Weekend,23410
+26,14-05-2023,expense,Travel,2541,No,Cash,No,Seasonal,Evening,Weekend,25951
+27,15-05-2023,expense,Mobile Recharge,191,Yes,Net Banking,No,Routine,Morning,Weekday,26142
+28,16-05-2023,expense,Dining Out,357,No,Net Banking,No,Unplanned,Afternoon,Weekday,26499
+29,16-05-2023,expense,Dining Out,466,No,Cash,No,Unplanned,Afternoon,Weekday,26965
+30,19-05-2023,expense,Medical,709,Yes,Cash,No,Emergency,Evening,Weekday,27674
+31,19-05-2023,expense,Clothing,384,No,Debit Card,No,Seasonal,Afternoon,Weekday,28058
+32,20-05-2023,expense,Entertainment,364,No,Credit Card,No,Unplanned,Morning,Weekend,28422
+33,20-05-2023,savings,Gold,1633,No,UPI,No,Seasonal,Afternoon,Weekend,
+34,21-05-2023,expense,Mobile Recharge,211,Yes,Credit Card,No,Routine,Morning,Weekend,28633
+35,22-05-2023,savings,Stock Investment,625,No,Cash,No,Unplanned,Morning,Weekday,
+36,23-05-2023,expense,Groceries,1904,Yes,Net Banking,No,Routine,Afternoon,Weekday,30537
+37,23-05-2023,expense,Dining Out,246,No,Debit Card,No,Unplanned,Evening,Weekday,30783
+38,24-05-2023,income,Freelance,2062,No,Credit Card,No,Planned,Night,Weekday,
+39,25-05-2023,savings,Stock Investment,654,No,Cash,No,Routine,Afternoon,Weekday,
+40,25-05-2023,expense,Dining Out,336,No,Net Banking,No,Unplanned,Morning,Weekday,31119
+41,26-05-2023,expense,Fuel,701,No,UPI,No,Unplanned,Morning,Weekday,31820
+42,26-05-2023,expense,Mobile Recharge,76,Yes,Debit Card,No,Routine,Afternoon,Weekday,31896
+43,26-05-2023,expense,Clothing,984,No,Cash,No,Seasonal,Evening,Weekday,32880
+44,28-05-2023,expense,Entertainment,604,No,Credit Card,No,Unplanned,Evening,Weekend,33484
+45,28-05-2023,savings,Recurring Deposit,500,No,Net Banking,Yes,Planned,Morning,Weekend,
+46,28-05-2023,expense,Fuel,300,No,Credit Card,No,Unplanned,Morning,Weekend,33784
+47,29-05-2023,expense,Entertainment,578,No,Debit Card,No,Unplanned,Evening,Weekday,34362
+48,29-05-2023,expense,Clothing,919,No,Credit Card,No,Seasonal,Night,Weekday,35281
+49,29-05-2023,expense,Entertainment,232,No,Credit Card,No,Unplanned,Afternoon,Weekday,35513
+50,30-05-2023,expense,Education,2845,Yes,Credit Card,No,Planned,Morning,Weekday,38358
+51,30-05-2023,expense,Travel,2566,No,Net Banking,No,Seasonal,Morning,Weekday,40924
+52,31-05-2023,savings,Stock Investment,627,No,Debit Card,No,Unplanned,Evening,Weekday,
+53,31-05-2023,expense,EMI,3391,Yes,Net Banking,Yes,Planned,Afternoon,Weekday,44315
+1,01-06-2023,expense,Education,2316,Yes,Net Banking,No,Planned,Evening,Weekday,2316
+2,01-06-2023,expense,Mobile Recharge,138,Yes,Debit Card,No,Routine,Afternoon,Weekday,2454
+3,02-06-2023,expense,Groceries,491,Yes,Cash,No,Routine,Afternoon,Weekday,2945
+4,02-06-2023,expense,Clothing,389,No,Net Banking,No,Seasonal,Afternoon,Weekday,3334
+5,02-06-2023,income,Interest,29,No,Credit Card,No,Routine,Morning,Weekday,
+6,03-06-2023,expense,Fuel,393,No,Credit Card,No,Unplanned,Night,Weekend,3727
+7,03-06-2023,expense,Utilities,389,Yes,Cash,No,Routine,Evening,Weekend,4116
+8,03-06-2023,expense,Education,2189,Yes,Debit Card,No,Planned,Night,Weekend,6305
+9,03-06-2023,expense,Gift,336,No,UPI,No,Festive,Evening,Weekend,6641
+10,04-06-2023,expense,Clothing,580,No,Net Banking,No,Seasonal,Afternoon,Weekend,7221
+11,04-06-2023,expense,Groceries,873,Yes,UPI,No,Routine,Morning,Weekend,8094
+12,05-06-2023,expense,Fuel,303,No,Debit Card,No,Unplanned,Night,Weekday,8397
+13,06-06-2023,expense,Mobile Recharge,110,Yes,Credit Card,No,Routine,Morning,Weekday,8507
+14,06-06-2023,expense,Entertainment,196,No,Debit Card,No,Unplanned,Evening,Weekday,8703
+15,06-06-2023,expense,EMI,2170,Yes,Debit Card,Yes,Planned,Morning,Weekday,10873
+16,06-06-2023,expense,Dining Out,263,No,Net Banking,No,Unplanned,Morning,Weekday,11136
+17,07-06-2023,expense,Entertainment,150,No,Credit Card,No,Unplanned,Night,Weekday,11286
+18,07-06-2023,expense,Education,1432,Yes,Credit Card,No,Planned,Afternoon,Weekday,12718
+19,08-06-2023,expense,Groceries,877,Yes,Credit Card,No,Routine,Morning,Weekday,13595
+20,09-06-2023,expense,Education,830,Yes,Net Banking,No,Planned,Afternoon,Weekday,14425
+21,09-06-2023,expense,Subscription,73,No,Cash,Yes,Planned,Evening,Weekday,14498
+22,10-06-2023,expense,Gift,214,No,Cash,No,Festive,Morning,Weekend,14712
+23,10-06-2023,savings,Recurring Deposit,805,No,UPI,Yes,Routine,Night,Weekend,
+24,11-06-2023,expense,Groceries,521,Yes,Debit Card,No,Routine,Evening,Weekend,15233
+25,11-06-2023,expense,Education,1754,Yes,Net Banking,No,Planned,Evening,Weekend,16987
+26,11-06-2023,expense,Mobile Recharge,61,Yes,Credit Card,No,Routine,Night,Weekend,17048
+27,11-06-2023,income,Bonus,1002,No,Debit Card,No,Planned,Morning,Weekend,
+28,11-06-2023,expense,Clothing,598,No,Cash,No,Seasonal,Morning,Weekend,17646
+29,11-06-2023,expense,Groceries,575,Yes,UPI,No,Routine,Evening,Weekend,18221
+30,12-06-2023,savings,Recurring Deposit,767,No,Cash,Yes,Unplanned,Morning,Weekday,
+31,12-06-2023,income,Interest,50,No,Net Banking,No,Unplanned,Afternoon,Weekday,
+32,12-06-2023,expense,Clothing,179,No,Debit Card,No,Seasonal,Night,Weekday,18400
+33,12-06-2023,income,Bonus,1316,No,Cash,No,Routine,Afternoon,Weekday,
+34,13-06-2023,expense,Clothing,494,No,UPI,No,Seasonal,Morning,Weekday,18894
+35,14-06-2023,expense,Mobile Recharge,148,Yes,Debit Card,No,Routine,Evening,Weekday,19042
+36,14-06-2023,expense,Clothing,264,No,Credit Card,No,Seasonal,Night,Weekday,19306
+37,15-06-2023,income,Interest,81,No,Cash,No,Planned,Morning,Weekday,
+38,15-06-2023,expense,Subscription,171,No,Cash,Yes,Routine,Morning,Weekday,19477
+39,15-06-2023,income,Bonus,1711,No,Cash,No,Routine,Evening,Weekday,
+40,15-06-2023,expense,Subscription,159,No,UPI,Yes,Planned,Evening,Weekday,19636
+41,16-06-2023,expense,Entertainment,350,No,UPI,No,Unplanned,Afternoon,Weekday,19986
+42,16-06-2023,expense,Entertainment,261,No,UPI,No,Unplanned,Night,Weekday,20247
+43,16-06-2023,expense,Entertainment,282,No,Cash,No,Unplanned,Night,Weekday,20529
+44,16-06-2023,expense,Dining Out,88,No,Net Banking,No,Unplanned,Evening,Weekday,20617
+45,16-06-2023,expense,Travel,465,No,Debit Card,No,Seasonal,Afternoon,Weekday,21082
+46,17-06-2023,expense,Entertainment,248,No,UPI,No,Unplanned,Night,Weekend,21330
+47,17-06-2023,expense,EMI,1578,Yes,Credit Card,Yes,Planned,Evening,Weekend,22908
+48,17-06-2023,expense,Rent,3493,Yes,Net Banking,Yes,Planned,Morning,Weekend,26401
+49,17-06-2023,expense,Subscription,86,No,Debit Card,Yes,Planned,Night,Weekend,26487
+50,18-06-2023,expense,Rent,3348,Yes,Cash,Yes,Unplanned,Afternoon,Weekend,29835
+51,18-06-2023,expense,Groceries,986,Yes,Net Banking,No,Routine,Afternoon,Weekend,30821
+52,18-06-2023,expense,Fuel,386,No,Credit Card,No,Unplanned,Afternoon,Weekend,31207
+53,18-06-2023,expense,Travel,1313,No,Net Banking,No,Seasonal,Morning,Weekend,32520
+54,18-06-2023,expense,Utilities,928,Yes,Net Banking,No,Routine,Night,Weekend,33448
+55,20-06-2023,expense,Subscription,142,No,Debit Card,Yes,Routine,Night,Weekday,33590
+56,20-06-2023,expense,EMI,2121,Yes,UPI,Yes,Planned,Morning,Weekday,35711
+57,20-06-2023,expense,Education,1128,Yes,Net Banking,No,Planned,Night,Weekday,36839
+58,20-06-2023,expense,Subscription,216,No,Net Banking,Yes,Routine,Morning,Weekday,37055
+59,20-06-2023,expense,Travel,1876,No,Debit Card,No,Seasonal,Morning,Weekday,38931
+60,20-06-2023,expense,Dining Out,218,No,Debit Card,No,Unplanned,Morning,Weekday,39149
+61,20-06-2023,expense,Dining Out,232,No,Net Banking,No,Unplanned,Afternoon,Weekday,39381
+62,20-06-2023,savings,Stock Investment,945,No,Cash,No,Unplanned,Night,Weekday,
+63,21-06-2023,expense,Gift,103,No,Credit Card,No,Festive,Morning,Weekday,39484
+64,24-06-2023,income,Freelance,1502,No,Cash,No,Planned,Night,Weekend,
+65,24-06-2023,income,Salary,5283,No,Net Banking,Yes,Unplanned,Afternoon,Weekend,
+66,25-06-2023,expense,Fuel,444,No,Cash,No,Unplanned,Morning,Weekend,39928
+67,27-06-2023,expense,Fuel,195,No,UPI,No,Unplanned,Evening,Weekday,40123
+68,27-06-2023,income,Freelance,2157,No,UPI,No,Unplanned,Afternoon,Weekday,
+69,29-06-2023,expense,Gift,174,No,Cash,No,Festive,Evening,Weekday,40297
+70,29-06-2023,income,Salary,6929,No,Credit Card,Yes,Unplanned,Night,Weekday,
+1,01-07-2023,income,Interest,245,No,Net Banking,No,Routine,Night,Weekend,
+2,02-07-2023,expense,Rent,4143,Yes,Debit Card,Yes,Unplanned,Afternoon,Weekend,4143
+3,02-07-2023,savings,Fixed Deposit,3580,No,Credit Card,No,Routine,Night,Weekend,
+4,02-07-2023,expense,Mobile Recharge,73,Yes,Cash,No,Routine,Evening,Weekend,4216
+5,03-07-2023,expense,Utilities,706,Yes,Debit Card,No,Routine,Morning,Weekday,4922
+6,04-07-2023,expense,Utilities,953,Yes,UPI,No,Routine,Morning,Weekday,5875
+7,04-07-2023,expense,Medical,941,Yes,Debit Card,No,Emergency,Morning,Weekday,6816
+8,04-07-2023,expense,Medical,744,Yes,Cash,No,Emergency,Afternoon,Weekday,7560
+9,05-07-2023,expense,Subscription,263,No,Credit Card,Yes,Routine,Night,Weekday,7823
+10,07-07-2023,expense,Medical,1283,Yes,UPI,No,Emergency,Evening,Weekday,9106
+11,07-07-2023,expense,Travel,1189,No,Cash,No,Seasonal,Night,Weekday,10295
+12,09-07-2023,expense,Dining Out,218,No,Debit Card,No,Unplanned,Night,Weekend,10513
+13,09-07-2023,expense,Groceries,1312,Yes,UPI,No,Routine,Night,Weekend,11825
+14,09-07-2023,expense,EMI,1533,Yes,Cash,Yes,Planned,Morning,Weekend,13358
+15,10-07-2023,expense,Travel,1818,No,Cash,No,Seasonal,Evening,Weekday,15176
+16,13-07-2023,expense,Rent,4104,Yes,Cash,Yes,Routine,Evening,Weekday,19280
+17,13-07-2023,expense,Utilities,1151,Yes,Cash,No,Routine,Night,Weekday,20431
+18,13-07-2023,savings,Gold,2371,No,Net Banking,No,Seasonal,Morning,Weekday,
+19,14-07-2023,expense,Entertainment,200,No,Cash,No,Unplanned,Morning,Weekday,20631
+20,14-07-2023,expense,Education,3468,Yes,Debit Card,No,Planned,Evening,Weekday,24099
+21,15-07-2023,expense,Medical,1440,Yes,Debit Card,No,Emergency,Morning,Weekend,25539
+22,17-07-2023,expense,EMI,2477,Yes,Debit Card,Yes,Planned,Morning,Weekday,28016
+23,17-07-2023,income,Bonus,6293,No,UPI,No,Planned,Morning,Weekday,
+24,20-07-2023,savings,Fixed Deposit,4579,No,UPI,No,Routine,Afternoon,Weekday,
+25,21-07-2023,income,Salary,10058,No,Cash,Yes,Routine,Night,Weekday,
+26,21-07-2023,expense,Travel,870,No,Cash,No,Seasonal,Evening,Weekday,28886
+27,21-07-2023,expense,Dining Out,227,No,UPI,No,Unplanned,Evening,Weekday,29113
+28,22-07-2023,expense,Entertainment,372,No,Debit Card,No,Unplanned,Afternoon,Weekend,29485
+29,22-07-2023,expense,Rent,3272,Yes,Net Banking,Yes,Planned,Night,Weekend,32757
+30,24-07-2023,expense,Fuel,522,No,UPI,No,Unplanned,Evening,Weekday,33279
+31,24-07-2023,expense,Education,1758,Yes,Credit Card,No,Planned,Morning,Weekday,35037
+32,25-07-2023,expense,Subscription,51,No,Net Banking,Yes,Routine,Evening,Weekday,35088
+33,25-07-2023,savings,Gold,1801,No,Net Banking,No,Seasonal,Morning,Weekday,
+34,25-07-2023,expense,Mobile Recharge,98,Yes,Debit Card,No,Routine,Afternoon,Weekday,35186
+35,26-07-2023,expense,Dining Out,268,No,Credit Card,No,Unplanned,Morning,Weekday,35454
+36,26-07-2023,savings,Recurring Deposit,468,No,Cash,Yes,Unplanned,Evening,Weekday,
+37,26-07-2023,expense,Mobile Recharge,137,Yes,Credit Card,No,Routine,Evening,Weekday,35591
+38,27-07-2023,expense,Entertainment,136,No,UPI,No,Unplanned,Evening,Weekday,35727
+39,28-07-2023,expense,Education,2734,Yes,UPI,No,Planned,Afternoon,Weekday,38461
+40,28-07-2023,expense,Education,2763,Yes,Debit Card,No,Planned,Afternoon,Weekday,41224
+41,29-07-2023,expense,Subscription,213,No,Credit Card,Yes,Unplanned,Night,Weekend,41437
+42,29-07-2023,income,Interest,92,No,Net Banking,No,Routine,Evening,Weekend,
+43,30-07-2023,expense,Medical,1363,Yes,Credit Card,No,Emergency,Morning,Weekend,42800
+44,31-07-2023,expense,Rent,2652,Yes,Debit Card,Yes,Planned,Afternoon,Weekday,45452
+1,01-08-2023,expense,Utilities,733,Yes,Debit Card,No,Routine,Evening,Weekday,733
+2,02-08-2023,expense,Clothing,584,No,Cash,No,Seasonal,Evening,Weekday,1317
+3,02-08-2023,expense,Clothing,582,No,Net Banking,No,Seasonal,Afternoon,Weekday,1899
+4,02-08-2023,expense,Clothing,341,No,Debit Card,No,Seasonal,Night,Weekday,2240
+5,03-08-2023,expense,Utilities,497,Yes,Net Banking,No,Routine,Afternoon,Weekday,2737
+6,03-08-2023,expense,Fuel,312,No,Cash,No,Unplanned,Afternoon,Weekday,3049
+7,04-08-2023,income,Bonus,4475,No,UPI,No,Unplanned,Morning,Weekday,
+8,05-08-2023,expense,Education,2150,Yes,UPI,No,Planned,Morning,Weekend,5199
+9,06-08-2023,expense,Travel,2327,No,UPI,No,Seasonal,Night,Weekend,7526
+10,06-08-2023,expense,Entertainment,468,No,UPI,No,Unplanned,Evening,Weekend,7994
+11,07-08-2023,expense,Mobile Recharge,74,Yes,Credit Card,No,Routine,Afternoon,Weekday,8068
+12,08-08-2023,income,Interest,218,No,Net Banking,No,Planned,Night,Weekday,
+13,08-08-2023,expense,Utilities,1134,Yes,Credit Card,No,Routine,Morning,Weekday,9202
+14,08-08-2023,income,Interest,53,No,Cash,No,Planned,Afternoon,Weekday,
+15,08-08-2023,expense,Clothing,640,No,Net Banking,No,Seasonal,Evening,Weekday,9842
+16,09-08-2023,expense,Groceries,706,Yes,Credit Card,No,Routine,Morning,Weekday,10548
+17,10-08-2023,expense,Education,1327,Yes,Net Banking,No,Planned,Morning,Weekday,11875
+18,10-08-2023,expense,Dining Out,324,No,Net Banking,No,Unplanned,Morning,Weekday,12199
+19,10-08-2023,expense,Fuel,265,No,Debit Card,No,Unplanned,Night,Weekday,12464
+20,11-08-2023,expense,Subscription,167,No,Debit Card,Yes,Unplanned,Evening,Weekday,12631
+21,11-08-2023,expense,EMI,1839,Yes,Credit Card,Yes,Planned,Afternoon,Weekday,14470
+22,11-08-2023,expense,Education,2766,Yes,Credit Card,No,Planned,Night,Weekday,17236
+23,11-08-2023,expense,Travel,1461,No,UPI,No,Seasonal,Night,Weekday,18697
+24,12-08-2023,expense,Mobile Recharge,178,Yes,Credit Card,No,Routine,Night,Weekend,18875
+25,12-08-2023,income,Freelance,1563,No,Debit Card,No,Planned,Morning,Weekend,
+26,12-08-2023,expense,Dining Out,184,No,Net Banking,No,Unplanned,Evening,Weekend,19059
+27,12-08-2023,income,Salary,6641,No,Cash,Yes,Unplanned,Night,Weekend,
+28,12-08-2023,expense,Entertainment,401,No,Debit Card,No,Unplanned,Afternoon,Weekend,19460
+29,14-08-2023,expense,Groceries,633,Yes,Net Banking,No,Routine,Evening,Weekday,20093
+30,14-08-2023,savings,Stock Investment,579,No,UPI,No,Planned,Afternoon,Weekday,
+31,15-08-2023,expense,Mobile Recharge,183,Yes,UPI,No,Routine,Evening,Weekday,20276
+32,17-08-2023,expense,Education,2578,Yes,UPI,No,Planned,Afternoon,Weekday,22854
+33,18-08-2023,expense,Entertainment,175,No,Debit Card,No,Unplanned,Morning,Weekday,23029
+34,18-08-2023,expense,Groceries,1206,Yes,Cash,No,Routine,Night,Weekday,24235
+35,18-08-2023,expense,EMI,2167,Yes,Net Banking,Yes,Planned,Afternoon,Weekday,26402
+36,19-08-2023,expense,Dining Out,304,No,Net Banking,No,Unplanned,Evening,Weekend,26706
+37,19-08-2023,expense,EMI,1815,Yes,Net Banking,Yes,Planned,Night,Weekend,28521
+38,20-08-2023,expense,EMI,1958,Yes,Credit Card,Yes,Planned,Night,Weekend,30479
+39,20-08-2023,income,Bonus,3382,No,UPI,No,Unplanned,Evening,Weekend,
+40,22-08-2023,expense,Medical,1450,Yes,Credit Card,No,Emergency,Afternoon,Weekday,31929
+41,22-08-2023,expense,Mobile Recharge,58,Yes,Net Banking,No,Routine,Morning,Weekday,31987
+42,23-08-2023,expense,Rent,2845,Yes,Debit Card,Yes,Routine,Morning,Weekday,34832
+43,24-08-2023,expense,Rent,3894,Yes,Net Banking,Yes,Unplanned,Afternoon,Weekday,38726
+44,24-08-2023,expense,Medical,815,Yes,UPI,No,Emergency,Night,Weekday,39541
+45,24-08-2023,expense,Mobile Recharge,127,Yes,Cash,No,Routine,Night,Weekday,39668
+46,27-08-2023,expense,Education,3240,Yes,Net Banking,No,Planned,Night,Weekend,42908
+47,28-08-2023,expense,Travel,1973,No,Credit Card,No,Seasonal,Night,Weekday,44881
+48,29-08-2023,savings,Stock Investment,646,No,Net Banking,No,Unplanned,Afternoon,Weekday,
+49,30-08-2023,expense,Utilities,552,Yes,Cash,No,Routine,Night,Weekday,45433
+50,30-08-2023,expense,Mobile Recharge,52,Yes,Cash,No,Routine,Evening,Weekday,45485
+51,31-08-2023,expense,EMI,2550,Yes,Debit Card,Yes,Planned,Night,Weekday,48035
+1,02-09-2023,expense,Dining Out,159,No,Credit Card,No,Unplanned,Morning,Weekend,159
+2,04-09-2023,savings,Fixed Deposit,3688,No,Debit Card,No,Unplanned,Night,Weekday,
+3,04-09-2023,expense,Clothing,768,No,Debit Card,No,Seasonal,Afternoon,Weekday,927
+4,05-09-2023,expense,Utilities,938,Yes,Cash,No,Routine,Morning,Weekday,1865
+5,06-09-2023,expense,Groceries,1015,Yes,Cash,No,Routine,Afternoon,Weekday,2880
+6,07-09-2023,savings,Gold,1816,No,UPI,No,Seasonal,Afternoon,Weekday,
+7,10-09-2023,expense,Groceries,1156,Yes,Debit Card,No,Routine,Morning,Weekend,4036
+8,10-09-2023,income,Freelance,1915,No,Cash,No,Unplanned,Afternoon,Weekend,
+9,11-09-2023,expense,Subscription,124,No,UPI,Yes,Planned,Afternoon,Weekday,4160
+10,11-09-2023,expense,Travel,1085,No,Cash,No,Seasonal,Night,Weekday,5245
+11,12-09-2023,expense,Medical,790,Yes,UPI,No,Emergency,Evening,Weekday,6035
+12,13-09-2023,expense,Entertainment,250,No,Net Banking,No,Unplanned,Afternoon,Weekday,6285
+13,13-09-2023,expense,Medical,258,Yes,UPI,No,Emergency,Afternoon,Weekday,6543
+14,14-09-2023,expense,Mobile Recharge,88,Yes,UPI,No,Routine,Afternoon,Weekday,6631
+15,14-09-2023,expense,Subscription,135,No,Debit Card,Yes,Routine,Night,Weekday,6766
+16,15-09-2023,expense,Rent,3691,Yes,Cash,Yes,Unplanned,Evening,Weekday,10457
+17,15-09-2023,income,Salary,9222,No,Cash,Yes,Planned,Morning,Weekday,
+18,16-09-2023,expense,Rent,2098,Yes,Debit Card,Yes,Routine,Night,Weekend,12555
+19,17-09-2023,income,Salary,8329,No,UPI,Yes,Routine,Night,Weekend,
+20,19-09-2023,expense,Medical,567,Yes,Debit Card,No,Emergency,Evening,Weekday,13122
+21,20-09-2023,expense,Rent,3255,Yes,Debit Card,Yes,Routine,Evening,Weekday,16377
+22,20-09-2023,expense,Entertainment,170,No,Net Banking,No,Unplanned,Night,Weekday,16547
+23,20-09-2023,income,Freelance,2468,No,Credit Card,No,Routine,Morning,Weekday,
+24,21-09-2023,expense,Utilities,572,Yes,UPI,No,Routine,Night,Weekday,17119
+25,21-09-2023,savings,Fixed Deposit,1496,No,Net Banking,No,Unplanned,Evening,Weekday,
+26,21-09-2023,expense,Groceries,1063,Yes,Cash,No,Routine,Morning,Weekday,18182
+27,22-09-2023,expense,Entertainment,346,No,UPI,No,Unplanned,Evening,Weekday,18528
+28,23-09-2023,income,Freelance,2128,No,Cash,No,Unplanned,Morning,Weekend,
+29,23-09-2023,income,Interest,131,No,Cash,No,Planned,Afternoon,Weekend,
+30,24-09-2023,expense,Medical,1264,Yes,UPI,No,Emergency,Evening,Weekend,19792
+31,26-09-2023,expense,Utilities,617,Yes,Credit Card,No,Routine,Evening,Weekday,20409
+32,26-09-2023,savings,Mutual Fund,950,No,Cash,No,Planned,Night,Weekday,
+33,26-09-2023,expense,Medical,400,Yes,UPI,No,Emergency,Evening,Weekday,20809
+34,27-09-2023,expense,Groceries,1088,Yes,Debit Card,No,Routine,Evening,Weekday,21897
+35,27-09-2023,expense,Gift,152,No,Credit Card,No,Festive,Afternoon,Weekday,22049
+36,27-09-2023,expense,Groceries,859,Yes,Debit Card,No,Routine,Evening,Weekday,22908
+37,27-09-2023,expense,Subscription,41,No,Debit Card,Yes,Planned,Afternoon,Weekday,22949
+38,27-09-2023,savings,Mutual Fund,509,No,Cash,No,Routine,Afternoon,Weekday,
+39,28-09-2023,expense,Rent,2586,Yes,Cash,Yes,Routine,Afternoon,Weekday,25535
+40,29-09-2023,expense,EMI,1734,Yes,Cash,Yes,Planned,Afternoon,Weekday,27269
+41,29-09-2023,expense,Utilities,879,Yes,Debit Card,No,Routine,Morning,Weekday,28148
+42,30-09-2023,expense,Medical,339,Yes,UPI,No,Emergency,Night,Weekend,28487
+43,30-09-2023,expense,Fuel,103,No,Net Banking,No,Unplanned,Morning,Weekend,28590
+44,30-09-2023,expense,Dining Out,198,No,Debit Card,No,Unplanned,Evening,Weekend,28788
+1,01-10-2023,expense,Fuel,236,No,UPI,No,Unplanned,Morning,Weekend,236
+2,01-10-2023,expense,Groceries,366,Yes,Credit Card,No,Routine,Morning,Weekend,602
+3,01-10-2023,expense,Education,2270,Yes,UPI,No,Planned,Evening,Weekend,2872
+4,01-10-2023,income,Salary,8424,No,UPI,Yes,Unplanned,Evening,Weekend,
+5,01-10-2023,expense,Education,2418,Yes,Cash,No,Planned,Evening,Weekend,5290
+6,03-10-2023,expense,Groceries,887,Yes,UPI,No,Routine,Morning,Weekday,6177
+7,04-10-2023,expense,Medical,248,Yes,Cash,No,Emergency,Morning,Weekday,6425
+8,04-10-2023,expense,Travel,1629,No,Credit Card,No,Seasonal,Evening,Weekday,8054
+9,04-10-2023,savings,Fixed Deposit,2417,No,Cash,No,Routine,Night,Weekday,
+10,05-10-2023,expense,Education,1396,Yes,Credit Card,No,Planned,Night,Weekday,9450
+11,05-10-2023,expense,Fuel,301,No,Cash,No,Unplanned,Afternoon,Weekday,9751
+12,05-10-2023,expense,Mobile Recharge,123,Yes,Cash,No,Routine,Evening,Weekday,9874
+13,05-10-2023,expense,Groceries,639,Yes,Debit Card,No,Routine,Afternoon,Weekday,10513
+14,06-10-2023,expense,Travel,247,No,Credit Card,No,Seasonal,Night,Weekday,10760
+15,06-10-2023,savings,Gold,1670,No,Debit Card,No,Seasonal,Afternoon,Weekday,
+16,06-10-2023,expense,Gift,699,No,UPI,No,Festive,Evening,Weekday,11459
+17,06-10-2023,expense,Fuel,215,No,Net Banking,No,Unplanned,Evening,Weekday,11674
+18,07-10-2023,expense,Medical,761,Yes,Net Banking,No,Emergency,Evening,Weekend,12435
+19,07-10-2023,expense,Subscription,214,No,UPI,Yes,Routine,Morning,Weekend,12649
+20,08-10-2023,expense,Mobile Recharge,104,Yes,Cash,No,Routine,Afternoon,Weekend,12753
+21,08-10-2023,expense,Mobile Recharge,115,Yes,Debit Card,No,Routine,Night,Weekend,12868
+22,08-10-2023,expense,Travel,694,No,Credit Card,No,Seasonal,Night,Weekend,13562
+23,08-10-2023,expense,Fuel,121,No,Credit Card,No,Unplanned,Night,Weekend,13683
+24,09-10-2023,expense,Utilities,838,Yes,Cash,No,Routine,Morning,Weekday,14521
+25,09-10-2023,expense,EMI,1072,Yes,Cash,Yes,Planned,Morning,Weekday,15593
+26,10-10-2023,expense,Entertainment,259,No,UPI,No,Unplanned,Evening,Weekday,15852
+27,10-10-2023,income,Bonus,1768,No,Cash,No,Routine,Night,Weekday,
+28,11-10-2023,expense,Clothing,515,No,Debit Card,No,Seasonal,Morning,Weekday,16367
+29,11-10-2023,expense,Travel,1366,No,UPI,No,Seasonal,Evening,Weekday,17733
+30,11-10-2023,income,Bonus,2163,No,Net Banking,No,Planned,Night,Weekday,
+31,12-10-2023,expense,Groceries,1016,Yes,UPI,No,Routine,Afternoon,Weekday,18749
+32,12-10-2023,expense,Subscription,41,No,UPI,Yes,Planned,Evening,Weekday,18790
+33,12-10-2023,expense,Utilities,621,Yes,Net Banking,No,Routine,Morning,Weekday,19411
+34,13-10-2023,expense,Entertainment,136,No,Debit Card,No,Unplanned,Morning,Weekday,19547
+35,15-10-2023,savings,Piggy Bank,73,No,Credit Card,No,Unplanned,Evening,Weekend,
+36,16-10-2023,expense,Subscription,187,No,Net Banking,Yes,Routine,Evening,Weekday,19734
+37,16-10-2023,savings,Gold,1220,No,Cash,No,Seasonal,Morning,Weekday,
+38,17-10-2023,savings,Gold,1386,No,UPI,No,Seasonal,Afternoon,Weekday,
+39,17-10-2023,expense,Groceries,577,Yes,Debit Card,No,Routine,Night,Weekday,20311
+40,17-10-2023,expense,Medical,867,Yes,Credit Card,No,Emergency,Afternoon,Weekday,21178
+41,18-10-2023,income,Bonus,3395,No,Cash,No,Routine,Evening,Weekday,
+42,18-10-2023,expense,Entertainment,192,No,UPI,No,Unplanned,Afternoon,Weekday,21370
+43,18-10-2023,expense,Groceries,683,Yes,Debit Card,No,Routine,Morning,Weekday,22053
+44,18-10-2023,expense,Dining Out,180,No,Cash,No,Unplanned,Evening,Weekday,22233
+45,19-10-2023,expense,Travel,414,No,Credit Card,No,Seasonal,Night,Weekday,22647
+46,19-10-2023,expense,Education,1486,Yes,Cash,No,Planned,Morning,Weekday,24133
+47,20-10-2023,expense,Travel,297,No,Credit Card,No,Seasonal,Morning,Weekday,24430
+48,21-10-2023,income,Interest,21,No,Credit Card,No,Unplanned,Night,Weekend,
+49,21-10-2023,expense,Clothing,529,No,UPI,No,Seasonal,Night,Weekend,24959
+50,22-10-2023,income,Bonus,3312,No,Debit Card,No,Routine,Afternoon,Weekend,
+51,23-10-2023,expense,Mobile Recharge,104,Yes,Debit Card,No,Routine,Evening,Weekday,25063
+52,23-10-2023,expense,Travel,1470,No,UPI,No,Seasonal,Night,Weekday,26533
+53,23-10-2023,income,Bonus,5157,No,Credit Card,No,Routine,Night,Weekday,
+54,24-10-2023,expense,Subscription,48,No,UPI,Yes,Planned,Evening,Weekday,26581
+55,24-10-2023,expense,Subscription,81,No,Net Banking,Yes,Unplanned,Night,Weekday,26662
+56,25-10-2023,income,Interest,97,No,UPI,No,Unplanned,Night,Weekday,
+57,27-10-2023,expense,Groceries,668,Yes,Cash,No,Routine,Afternoon,Weekday,27330
+58,28-10-2023,expense,Medical,301,Yes,Cash,No,Emergency,Morning,Weekend,27631
+59,28-10-2023,expense,Groceries,837,Yes,Credit Card,No,Routine,Morning,Weekend,28468
+60,28-10-2023,expense,Rent,2616,Yes,Net Banking,Yes,Unplanned,Morning,Weekend,31084
+61,28-10-2023,expense,Clothing,383,No,Debit Card,No,Seasonal,Morning,Weekend,31467
+62,29-10-2023,savings,Mutual Fund,200,No,Credit Card,No,Unplanned,Night,Weekend,
+63,29-10-2023,expense,Travel,1047,No,Credit Card,No,Seasonal,Evening,Weekend,32514
+64,30-10-2023,expense,Clothing,690,No,Cash,No,Seasonal,Evening,Weekday,33204
+65,30-10-2023,expense,Medical,961,Yes,Credit Card,No,Emergency,Afternoon,Weekday,34165
+66,31-10-2023,expense,Rent,3009,Yes,UPI,Yes,Planned,Afternoon,Weekday,37174
+67,31-10-2023,expense,EMI,1389,Yes,UPI,Yes,Planned,Night,Weekday,38563
+68,31-10-2023,expense,Rent,2728,Yes,Cash,Yes,Planned,Evening,Weekday,41291
+1,01-11-2023,expense,Medical,769,Yes,Debit Card,No,Emergency,Evening,Weekday,769
+2,02-11-2023,expense,Rent,1853,Yes,Net Banking,Yes,Routine,Morning,Weekday,2622
+3,02-11-2023,expense,Rent,1835,Yes,Credit Card,Yes,Routine,Night,Weekday,4457
+4,02-11-2023,income,Freelance,855,No,Credit Card,No,Routine,Night,Weekday,
+5,03-11-2023,expense,Subscription,210,No,Cash,Yes,Routine,Morning,Weekday,4667
+6,04-11-2023,income,Bonus,4428,No,Debit Card,No,Planned,Night,Weekend,
+7,04-11-2023,expense,Utilities,827,Yes,Cash,No,Routine,Night,Weekend,5494
+8,06-11-2023,income,Bonus,4633,No,Credit Card,No,Unplanned,Afternoon,Weekday,
+9,06-11-2023,expense,Dining Out,155,No,Net Banking,No,Unplanned,Evening,Weekday,5649
+10,06-11-2023,expense,Mobile Recharge,55,Yes,Debit Card,No,Routine,Night,Weekday,5704
+11,07-11-2023,expense,Fuel,280,No,Debit Card,No,Unplanned,Afternoon,Weekday,5984
+12,07-11-2023,expense,Dining Out,171,No,UPI,No,Unplanned,Evening,Weekday,6155
+13,07-11-2023,savings,Stock Investment,205,No,Credit Card,No,Planned,Morning,Weekday,
+14,08-11-2023,expense,Clothing,582,No,Credit Card,No,Seasonal,Afternoon,Weekday,6737
+15,08-11-2023,expense,Rent,2463,Yes,Cash,Yes,Routine,Afternoon,Weekday,9200
+16,09-11-2023,expense,Subscription,131,No,UPI,Yes,Planned,Evening,Weekday,9331
+17,10-11-2023,expense,Dining Out,221,No,UPI,No,Unplanned,Morning,Weekday,9552
+18,10-11-2023,expense,EMI,988,Yes,Cash,Yes,Planned,Afternoon,Weekday,10540
+19,11-11-2023,expense,Dining Out,131,No,Net Banking,No,Unplanned,Night,Weekend,10671
+20,11-11-2023,expense,Travel,1337,No,Cash,No,Seasonal,Night,Weekend,12008
+21,11-11-2023,expense,Mobile Recharge,75,Yes,Net Banking,No,Routine,Night,Weekend,12083
+22,11-11-2023,expense,Dining Out,248,No,Cash,No,Unplanned,Morning,Weekend,12331
+23,11-11-2023,savings,Gold,1290,No,Cash,No,Seasonal,Afternoon,Weekend,
+24,11-11-2023,expense,Medical,364,Yes,Debit Card,No,Emergency,Night,Weekend,12695
+25,12-11-2023,expense,Entertainment,111,No,UPI,No,Unplanned,Morning,Weekend,12806
+26,12-11-2023,expense,Clothing,368,No,Credit Card,No,Seasonal,Night,Weekend,13174
+27,13-11-2023,expense,Rent,2810,Yes,Credit Card,Yes,Unplanned,Evening,Weekday,15984
+28,15-11-2023,income,Freelance,943,No,Cash,No,Unplanned,Afternoon,Weekday,
+29,15-11-2023,expense,Fuel,285,No,UPI,No,Unplanned,Afternoon,Weekday,16269
+30,15-11-2023,expense,Education,919,Yes,UPI,No,Planned,Morning,Weekday,17188
+31,16-11-2023,expense,EMI,1854,Yes,Credit Card,Yes,Planned,Morning,Weekday,19042
+32,16-11-2023,expense,Groceries,869,Yes,Debit Card,No,Routine,Afternoon,Weekday,19911
+33,17-11-2023,expense,Utilities,572,Yes,Credit Card,No,Routine,Night,Weekday,20483
+34,18-11-2023,expense,Rent,3249,Yes,Debit Card,Yes,Planned,Night,Weekend,23732
+35,20-11-2023,income,Bonus,3775,No,Net Banking,No,Planned,Evening,Weekday,
+36,20-11-2023,expense,Mobile Recharge,116,Yes,Net Banking,No,Routine,Night,Weekday,23848
+37,21-11-2023,expense,Entertainment,168,No,UPI,No,Unplanned,Morning,Weekday,24016
+38,22-11-2023,income,Freelance,1741,No,UPI,No,Planned,Morning,Weekday,
+39,23-11-2023,expense,Groceries,368,Yes,UPI,No,Routine,Night,Weekday,24384
+40,23-11-2023,savings,Fixed Deposit,1049,No,UPI,No,Routine,Morning,Weekday,
+41,23-11-2023,expense,Entertainment,275,No,Credit Card,No,Unplanned,Afternoon,Weekday,24659
+42,23-11-2023,expense,Entertainment,264,No,UPI,No,Unplanned,Afternoon,Weekday,24923
+43,24-11-2023,expense,Travel,1397,No,Debit Card,No,Seasonal,Night,Weekday,26320
+44,25-11-2023,expense,Clothing,433,No,Credit Card,No,Seasonal,Afternoon,Weekend,26753
+45,25-11-2023,expense,Utilities,745,Yes,UPI,No,Routine,Afternoon,Weekend,27498
+46,25-11-2023,income,Salary,10465,No,Debit Card,Yes,Planned,Evening,Weekend,
+47,25-11-2023,expense,Utilities,699,Yes,Cash,No,Routine,Evening,Weekend,28197
+48,25-11-2023,expense,Clothing,148,No,Net Banking,No,Seasonal,Afternoon,Weekend,28345
+49,26-11-2023,expense,Groceries,450,Yes,UPI,No,Routine,Night,Weekend,28795
+50,26-11-2023,expense,Groceries,644,Yes,UPI,No,Routine,Evening,Weekend,29439
+51,26-11-2023,expense,EMI,1427,Yes,UPI,Yes,Planned,Morning,Weekend,30866
+52,27-11-2023,expense,Utilities,338,Yes,Debit Card,No,Routine,Morning,Weekday,31204
+53,27-11-2023,income,Bonus,3399,No,UPI,No,Planned,Morning,Weekday,
+54,27-11-2023,expense,Groceries,916,Yes,Credit Card,No,Routine,Night,Weekday,32120
+55,27-11-2023,expense,Fuel,111,No,UPI,No,Unplanned,Afternoon,Weekday,32231
+56,29-11-2023,expense,Education,1451,Yes,Credit Card,No,Planned,Morning,Weekday,33682
+57,30-11-2023,expense,Rent,2464,Yes,Debit Card,Yes,Planned,Night,Weekday,36146
+1,01-12-2023,expense,Mobile Recharge,104,Yes,Debit Card,No,Routine,Evening,Weekday,104
+2,03-12-2023,income,Bonus,2158,No,Net Banking,No,Unplanned,Afternoon,Weekend,
+3,03-12-2023,expense,Groceries,764,Yes,Net Banking,No,Routine,Evening,Weekend,868
+4,03-12-2023,expense,Entertainment,242,No,UPI,No,Unplanned,Night,Weekend,1110
+5,05-12-2023,expense,Utilities,608,Yes,Cash,No,Routine,Morning,Weekday,1718
+6,05-12-2023,expense,Subscription,255,No,Debit Card,Yes,Unplanned,Morning,Weekday,1973
+7,06-12-2023,income,Interest,246,No,Cash,No,Routine,Night,Weekday,
+8,06-12-2023,expense,Utilities,839,Yes,Credit Card,No,Routine,Morning,Weekday,2812
+9,08-12-2023,expense,Dining Out,328,No,Cash,No,Unplanned,Afternoon,Weekday,3140
+10,08-12-2023,expense,Clothing,801,No,Net Banking,No,Seasonal,Night,Weekday,3941
+11,08-12-2023,expense,Entertainment,210,No,UPI,No,Unplanned,Evening,Weekday,4151
+12,09-12-2023,income,Bonus,1364,No,Net Banking,No,Routine,Night,Weekend,
+13,09-12-2023,savings,Gold,796,No,UPI,No,Seasonal,Afternoon,Weekend,
+14,09-12-2023,income,Interest,150,No,Cash,No,Unplanned,Afternoon,Weekend,
+15,10-12-2023,expense,Medical,1100,Yes,Cash,No,Emergency,Night,Weekend,5251
+16,11-12-2023,expense,Dining Out,278,No,Cash,No,Unplanned,Night,Weekday,5529
+17,12-12-2023,income,Freelance,973,No,Cash,No,Unplanned,Morning,Weekday,
+18,12-12-2023,expense,Travel,1494,No,Credit Card,No,Seasonal,Afternoon,Weekday,7023
+19,12-12-2023,expense,EMI,2537,Yes,Debit Card,Yes,Planned,Night,Weekday,9560
+20,12-12-2023,expense,Education,1024,Yes,Debit Card,No,Planned,Night,Weekday,10584
+21,13-12-2023,expense,Fuel,138,No,Debit Card,No,Unplanned,Afternoon,Weekday,10722
+22,13-12-2023,expense,Education,1890,Yes,UPI,No,Planned,Night,Weekday,12612
+23,14-12-2023,expense,Clothing,368,No,Net Banking,No,Seasonal,Morning,Weekday,12980
+24,14-12-2023,expense,Gift,798,No,Net Banking,No,Festive,Afternoon,Weekday,13778
+25,15-12-2023,expense,Medical,1813,Yes,Cash,No,Emergency,Morning,Weekday,15591
+26,16-12-2023,expense,Utilities,955,Yes,Credit Card,No,Routine,Morning,Weekend,16546
+27,16-12-2023,expense,Dining Out,276,No,Net Banking,No,Unplanned,Morning,Weekend,16822
+28,17-12-2023,expense,Travel,1282,No,Debit Card,No,Seasonal,Morning,Weekend,18104
+29,18-12-2023,savings,Piggy Bank,102,No,Credit Card,No,Unplanned,Afternoon,Weekday,
+30,18-12-2023,expense,Travel,1573,No,UPI,No,Seasonal,Morning,Weekday,19677
+31,18-12-2023,expense,EMI,2675,Yes,Net Banking,Yes,Planned,Morning,Weekday,22352
+32,19-12-2023,expense,Mobile Recharge,106,Yes,Debit Card,No,Routine,Night,Weekday,22458
+33,19-12-2023,expense,Mobile Recharge,181,Yes,UPI,No,Routine,Afternoon,Weekday,22639
+34,19-12-2023,expense,EMI,2109,Yes,Debit Card,Yes,Planned,Afternoon,Weekday,24748
+35,19-12-2023,expense,EMI,2773,Yes,UPI,Yes,Planned,Evening,Weekday,27521
+36,20-12-2023,savings,Piggy Bank,107,No,Debit Card,No,Planned,Afternoon,Weekday,
+37,21-12-2023,expense,Utilities,880,Yes,Credit Card,No,Routine,Afternoon,Weekday,28401
+38,21-12-2023,expense,Subscription,339,No,Net Banking,Yes,Planned,Evening,Weekday,28740
+39,22-12-2023,expense,Clothing,544,No,Debit Card,No,Seasonal,Afternoon,Weekday,29284
+40,23-12-2023,expense,Clothing,868,No,Net Banking,No,Seasonal,Afternoon,Weekend,30152
+41,24-12-2023,expense,Groceries,612,Yes,UPI,No,Routine,Afternoon,Weekend,30764
+42,24-12-2023,expense,Fuel,614,No,Cash,No,Unplanned,Afternoon,Weekend,31378
+43,24-12-2023,income,Salary,7958,No,Credit Card,Yes,Unplanned,Evening,Weekend,
+44,24-12-2023,expense,Travel,583,No,Credit Card,No,Seasonal,Afternoon,Weekend,31961
+45,24-12-2023,expense,Education,3711,Yes,Debit Card,No,Planned,Afternoon,Weekend,35672
+46,25-12-2023,expense,Clothing,900,No,Cash,No,Seasonal,Evening,Weekday,36572
+47,25-12-2023,expense,Fuel,364,No,Credit Card,No,Unplanned,Night,Weekday,36936
+48,26-12-2023,expense,Education,3110,Yes,Net Banking,No,Planned,Morning,Weekday,40046
+49,26-12-2023,expense,EMI,1987,Yes,Debit Card,Yes,Planned,Night,Weekday,42033
+50,27-12-2023,expense,Education,2868,Yes,Debit Card,No,Planned,Evening,Weekday,44901
+51,28-12-2023,savings,Recurring Deposit,413,No,Net Banking,Yes,Planned,Morning,Weekday,
+52,28-12-2023,expense,EMI,2346,Yes,Credit Card,Yes,Planned,Evening,Weekday,47247
+53,28-12-2023,expense,Mobile Recharge,51,Yes,Cash,No,Routine,Evening,Weekday,47298
+54,29-12-2023,expense,Education,3305,Yes,Debit Card,No,Planned,Afternoon,Weekday,50603
+55,29-12-2023,expense,Dining Out,242,No,Credit Card,No,Unplanned,Morning,Weekday,50845
+56,30-12-2023,expense,Utilities,518,Yes,Cash,No,Routine,Afternoon,Weekend,51363
+57,30-12-2023,expense,Groceries,1417,Yes,Debit Card,No,Routine,Morning,Weekend,52780
+58,30-12-2023,expense,EMI,1919,Yes,Credit Card,Yes,Planned,Evening,Weekend,54699
+59,31-12-2023,expense,Medical,381,Yes,Debit Card,No,Emergency,Evening,Weekend,55080
+60,31-12-2023,expense,Utilities,1184,Yes,Cash,No,Routine,Night,Weekend,56264
+61,31-12-2023,expense,Clothing,413,No,Credit Card,No,Seasonal,Morning,Weekend,56677
+62,31-12-2023,expense,Groceries,506,Yes,UPI,No,Routine,Afternoon,Weekend,57183
+63,31-12-2023,expense,Fuel,307,No,Debit Card,No,Unplanned,Night,Weekend,57490
+1,01-01-2024,income,Bonus,5967,No,Debit Card,No,Planned,Night,Weekday,
+2,01-01-2024,expense,Subscription,166,No,Credit Card,Yes,Routine,Night,Weekday,166
+3,02-01-2024,expense,Clothing,903,No,Credit Card,No,Seasonal,Afternoon,Weekday,1069
+4,02-01-2024,savings,Piggy Bank,82,No,Cash,No,Unplanned,Night,Weekday,
+5,02-01-2024,expense,Groceries,765,Yes,Credit Card,No,Routine,Afternoon,Weekday,1834
+6,02-01-2024,expense,Groceries,694,Yes,UPI,No,Routine,Night,Weekday,2528
+7,03-01-2024,expense,Fuel,533,No,Cash,No,Unplanned,Afternoon,Weekday,3061
+8,05-01-2024,expense,Travel,896,No,Debit Card,No,Seasonal,Evening,Weekday,3957
+9,06-01-2024,expense,Groceries,1138,Yes,Debit Card,No,Routine,Evening,Weekend,5095
+10,07-01-2024,income,Freelance,931,No,Net Banking,No,Unplanned,Evening,Weekend,
+11,07-01-2024,income,Salary,12458,No,Debit Card,Yes,Planned,Evening,Weekend,
+12,08-01-2024,expense,Medical,612,Yes,Cash,No,Emergency,Evening,Weekday,5707
+13,08-01-2024,expense,Rent,4201,Yes,Debit Card,Yes,Unplanned,Night,Weekday,9908
+14,09-01-2024,expense,Clothing,282,No,Net Banking,No,Seasonal,Night,Weekday,10190
+15,09-01-2024,expense,Clothing,573,No,Debit Card,No,Seasonal,Night,Weekday,10763
+16,11-01-2024,expense,Dining Out,280,No,UPI,No,Unplanned,Afternoon,Weekday,11043
+17,12-01-2024,expense,Mobile Recharge,108,Yes,Debit Card,No,Routine,Afternoon,Weekday,11151
+18,12-01-2024,expense,Gift,286,No,UPI,No,Festive,Afternoon,Weekday,11437
+19,13-01-2024,income,Interest,217,No,UPI,No,Routine,Afternoon,Weekend,
+20,13-01-2024,income,Freelance,3115,No,Net Banking,No,Routine,Evening,Weekend,
+21,14-01-2024,expense,Fuel,225,No,UPI,No,Unplanned,Evening,Weekend,11662
+22,15-01-2024,expense,Clothing,192,No,UPI,No,Seasonal,Evening,Weekday,11854
+23,15-01-2024,expense,Rent,3052,Yes,Cash,Yes,Routine,Morning,Weekday,14906
+24,16-01-2024,expense,Clothing,379,No,Net Banking,No,Seasonal,Night,Weekday,15285
+25,16-01-2024,expense,Mobile Recharge,105,Yes,UPI,No,Routine,Afternoon,Weekday,15390
+26,16-01-2024,expense,Entertainment,421,No,Net Banking,No,Unplanned,Afternoon,Weekday,15811
+27,17-01-2024,expense,EMI,2365,Yes,Cash,Yes,Planned,Evening,Weekday,18176
+28,17-01-2024,expense,Mobile Recharge,48,Yes,Credit Card,No,Routine,Afternoon,Weekday,18224
+29,18-01-2024,expense,Dining Out,342,No,Credit Card,No,Unplanned,Afternoon,Weekday,18566
+30,18-01-2024,expense,EMI,1426,Yes,Debit Card,Yes,Planned,Night,Weekday,19992
+31,18-01-2024,expense,Utilities,907,Yes,Net Banking,No,Routine,Evening,Weekday,20899
+32,19-01-2024,expense,Groceries,563,Yes,Net Banking,No,Routine,Night,Weekday,21462
+33,19-01-2024,expense,Education,1469,Yes,Cash,No,Planned,Morning,Weekday,22931
+34,19-01-2024,expense,Education,2944,Yes,Cash,No,Planned,Morning,Weekday,25875
+35,19-01-2024,expense,Mobile Recharge,104,Yes,UPI,No,Routine,Morning,Weekday,25979
+36,19-01-2024,expense,Utilities,1002,Yes,Credit Card,No,Routine,Evening,Weekday,26981
+37,19-01-2024,expense,EMI,2585,Yes,Debit Card,Yes,Planned,Afternoon,Weekday,29566
+38,19-01-2024,expense,Utilities,676,Yes,Cash,No,Routine,Evening,Weekday,30242
+39,20-01-2024,expense,Clothing,204,No,Net Banking,No,Seasonal,Evening,Weekend,30446
+40,20-01-2024,savings,Mutual Fund,531,No,Debit Card,No,Unplanned,Afternoon,Weekend,
+41,21-01-2024,expense,Entertainment,314,No,Net Banking,No,Unplanned,Night,Weekend,30760
+42,21-01-2024,expense,Utilities,1148,Yes,Credit Card,No,Routine,Morning,Weekend,31908
+43,23-01-2024,savings,Piggy Bank,211,No,Debit Card,No,Unplanned,Night,Weekday,
+44,23-01-2024,savings,Stock Investment,589,No,UPI,No,Unplanned,Morning,Weekday,
+45,24-01-2024,income,Salary,10763,No,Net Banking,Yes,Unplanned,Evening,Weekday,
+46,24-01-2024,expense,Education,1336,Yes,Credit Card,No,Planned,Morning,Weekday,33244
+47,24-01-2024,expense,Gift,629,No,Net Banking,No,Festive,Evening,Weekday,33873
+48,24-01-2024,expense,Mobile Recharge,71,Yes,UPI,No,Routine,Night,Weekday,33944
+49,25-01-2024,expense,Dining Out,192,No,Credit Card,No,Unplanned,Evening,Weekday,34136
+50,25-01-2024,income,Interest,115,No,UPI,No,Unplanned,Night,Weekday,
+51,27-01-2024,expense,Education,1044,Yes,Credit Card,No,Planned,Afternoon,Weekend,35180
+52,27-01-2024,expense,Groceries,1155,Yes,UPI,No,Routine,Afternoon,Weekend,36335
+53,27-01-2024,expense,Dining Out,194,No,Cash,No,Unplanned,Afternoon,Weekend,36529
+54,28-01-2024,expense,Medical,1321,Yes,Net Banking,No,Emergency,Evening,Weekend,37850
+55,28-01-2024,expense,Dining Out,239,No,UPI,No,Unplanned,Afternoon,Weekend,38089
+56,29-01-2024,expense,Groceries,1407,Yes,Net Banking,No,Routine,Morning,Weekday,39496
+57,30-01-2024,expense,Mobile Recharge,151,Yes,Debit Card,No,Routine,Night,Weekday,39647
+1,01-02-2024,expense,Fuel,221,No,Cash,No,Unplanned,Night,Weekday,221
+2,01-02-2024,expense,EMI,1234,Yes,Net Banking,Yes,Planned,Morning,Weekday,1455
+3,01-02-2024,expense,Education,2131,Yes,Cash,No,Planned,Evening,Weekday,3586
+4,01-02-2024,expense,Entertainment,173,No,Debit Card,No,Unplanned,Evening,Weekday,3759
+5,01-02-2024,expense,Groceries,790,Yes,Cash,No,Routine,Night,Weekday,4549
+6,01-02-2024,expense,Subscription,40,No,UPI,Yes,Routine,Afternoon,Weekday,4589
+7,02-02-2024,expense,Medical,895,Yes,Cash,No,Emergency,Evening,Weekday,5484
+8,03-02-2024,expense,EMI,1657,Yes,UPI,Yes,Planned,Evening,Weekend,7141
+9,03-02-2024,savings,Piggy Bank,29,No,Net Banking,No,Planned,Morning,Weekend,
+10,04-02-2024,expense,EMI,1307,Yes,UPI,Yes,Planned,Morning,Weekend,8448
+11,05-02-2024,expense,Medical,826,Yes,Cash,No,Emergency,Afternoon,Weekday,9274
+12,05-02-2024,expense,Subscription,131,No,UPI,Yes,Routine,Evening,Weekday,9405
+13,05-02-2024,expense,Entertainment,281,No,UPI,No,Unplanned,Evening,Weekday,9686
+14,06-02-2024,expense,Entertainment,135,No,Debit Card,No,Unplanned,Morning,Weekday,9821
+15,07-02-2024,expense,Travel,854,No,Credit Card,No,Seasonal,Evening,Weekday,10675
+16,08-02-2024,expense,Dining Out,112,No,UPI,No,Unplanned,Night,Weekday,10787
+17,08-02-2024,expense,Medical,403,Yes,Net Banking,No,Emergency,Morning,Weekday,11190
+18,09-02-2024,expense,EMI,1012,Yes,UPI,Yes,Planned,Afternoon,Weekday,12202
+19,09-02-2024,expense,Education,1060,Yes,Debit Card,No,Planned,Morning,Weekday,13262
+20,10-02-2024,expense,Subscription,42,No,Net Banking,Yes,Unplanned,Evening,Weekend,13304
+21,10-02-2024,expense,Mobile Recharge,39,Yes,Net Banking,No,Routine,Afternoon,Weekend,13343
+22,10-02-2024,expense,Clothing,339,No,Cash,No,Seasonal,Morning,Weekend,13682
+23,11-02-2024,expense,Dining Out,65,No,Debit Card,No,Unplanned,Night,Weekend,13747
+24,11-02-2024,expense,Entertainment,107,No,UPI,No,Unplanned,Night,Weekend,13854
+25,11-02-2024,expense,Gift,168,No,Net Banking,No,Festive,Morning,Weekend,14022
+26,11-02-2024,income,Bonus,2194,No,Cash,No,Routine,Night,Weekend,
+27,11-02-2024,savings,Mutual Fund,253,No,Credit Card,No,Unplanned,Night,Weekend,
+28,12-02-2024,expense,Dining Out,81,No,UPI,No,Unplanned,Night,Weekday,14103
+29,12-02-2024,expense,Clothing,398,No,Net Banking,No,Seasonal,Afternoon,Weekday,14501
+30,12-02-2024,expense,Dining Out,197,No,Cash,No,Unplanned,Night,Weekday,14698
+31,12-02-2024,income,Salary,4775,No,Cash,Yes,Unplanned,Night,Weekday,
+32,13-02-2024,savings,Fixed Deposit,1940,No,Credit Card,No,Routine,Night,Weekday,
+33,13-02-2024,expense,Utilities,395,Yes,UPI,No,Routine,Afternoon,Weekday,15093
+34,13-02-2024,expense,Travel,1078,No,UPI,No,Seasonal,Morning,Weekday,16171
+35,14-02-2024,expense,Rent,2103,Yes,Debit Card,Yes,Unplanned,Evening,Weekday,18274
+36,14-02-2024,savings,Gold,688,No,Credit Card,No,Seasonal,Night,Weekday,
+37,15-02-2024,expense,Rent,1911,Yes,Debit Card,Yes,Planned,Morning,Weekday,20185
+38,15-02-2024,expense,Medical,611,Yes,Cash,No,Emergency,Night,Weekday,20796
+39,15-02-2024,expense,Gift,250,No,Net Banking,No,Festive,Afternoon,Weekday,21046
+40,16-02-2024,savings,Mutual Fund,557,No,Debit Card,No,Unplanned,Morning,Weekday,
+41,16-02-2024,expense,Travel,810,No,Debit Card,No,Seasonal,Afternoon,Weekday,21856
+42,17-02-2024,income,Freelance,1902,No,Net Banking,No,Planned,Night,Weekend,
+43,17-02-2024,expense,Medical,790,Yes,Debit Card,No,Emergency,Night,Weekend,22646
+44,17-02-2024,expense,Clothing,421,No,Debit Card,No,Seasonal,Afternoon,Weekend,23067
+45,18-02-2024,expense,Clothing,223,No,Net Banking,No,Seasonal,Evening,Weekend,23290
+46,19-02-2024,expense,Travel,1126,No,Net Banking,No,Seasonal,Afternoon,Weekday,24416
+47,20-02-2024,income,Bonus,1707,No,Net Banking,No,Planned,Night,Weekday,
+48,20-02-2024,income,Freelance,1789,No,Cash,No,Unplanned,Afternoon,Weekday,
+49,21-02-2024,expense,Education,1463,Yes,Cash,No,Planned,Evening,Weekday,25879
+50,23-02-2024,expense,Entertainment,185,No,Cash,No,Unplanned,Afternoon,Weekday,26064
+51,23-02-2024,savings,Stock Investment,337,No,Cash,No,Routine,Evening,Weekday,
+52,24-02-2024,income,Salary,6913,No,Net Banking,Yes,Planned,Evening,Weekend,
+53,24-02-2024,income,Freelance,1954,No,Cash,No,Routine,Afternoon,Weekend,
+54,25-02-2024,expense,Clothing,178,No,Net Banking,No,Seasonal,Afternoon,Weekend,26242
+55,25-02-2024,expense,Travel,333,No,Cash,No,Seasonal,Morning,Weekend,26575
+56,25-02-2024,expense,Groceries,321,Yes,Credit Card,No,Routine,Night,Weekend,26896
+57,25-02-2024,savings,Mutual Fund,166,No,Credit Card,No,Planned,Evening,Weekend,
+58,25-02-2024,expense,Gift,504,No,UPI,No,Festive,Morning,Weekend,27400
+59,25-02-2024,expense,Travel,874,No,Net Banking,No,Seasonal,Afternoon,Weekend,28274
+60,26-02-2024,expense,Travel,805,No,Credit Card,No,Seasonal,Night,Weekday,29079
+61,26-02-2024,expense,EMI,1408,Yes,Debit Card,Yes,Planned,Morning,Weekday,30487
+62,27-02-2024,expense,Education,1025,Yes,Debit Card,No,Planned,Evening,Weekday,31512
+63,27-02-2024,expense,EMI,1018,Yes,UPI,Yes,Planned,Morning,Weekday,32530
+64,27-02-2024,expense,Mobile Recharge,47,Yes,Debit Card,No,Routine,Evening,Weekday,32577
+65,28-02-2024,expense,Education,1270,Yes,UPI,No,Planned,Afternoon,Weekday,33847
+66,28-02-2024,expense,Entertainment,200,No,Net Banking,No,Unplanned,Night,Weekday,34047
+67,28-02-2024,expense,Clothing,134,No,Cash,No,Seasonal,Night,Weekday,34181
+68,29-02-2024,income,Freelance,1332,No,Credit Card,No,Unplanned,Night,Weekday,
+69,29-02-2024,expense,Travel,639,No,UPI,No,Seasonal,Afternoon,Weekday,34820
+70,29-02-2024,expense,Subscription,141,No,UPI,Yes,Unplanned,Evening,Weekday,34961
+71,29-02-2024,income,Bonus,3566,No,UPI,No,Planned,Afternoon,Weekday,
+72,29-02-2024,expense,Medical,996,Yes,Cash,No,Emergency,Night,Weekday,35957
+1,02-03-2024,expense,Subscription,267,No,Net Banking,Yes,Unplanned,Afternoon,Weekend,267
+2,02-03-2024,expense,Rent,3197,Yes,Net Banking,Yes,Planned,Afternoon,Weekend,3464
+3,02-03-2024,expense,Travel,2018,No,UPI,No,Seasonal,Afternoon,Weekend,5482
+4,02-03-2024,expense,Clothing,655,No,Debit Card,No,Seasonal,Evening,Weekend,6137
+5,03-03-2024,expense,Subscription,91,No,Cash,Yes,Unplanned,Morning,Weekend,6228
+6,04-03-2024,savings,Gold,1867,No,Credit Card,No,Seasonal,Morning,Weekday,
+7,04-03-2024,expense,Rent,3119,Yes,Credit Card,Yes,Routine,Afternoon,Weekday,9347
+8,06-03-2024,expense,Subscription,55,No,Cash,Yes,Unplanned,Morning,Weekday,9402
+9,07-03-2024,expense,Education,1333,Yes,Credit Card,No,Planned,Morning,Weekday,10735
+10,08-03-2024,expense,Travel,1637,No,Debit Card,No,Seasonal,Afternoon,Weekday,12372
+11,08-03-2024,expense,EMI,1300,Yes,Cash,Yes,Planned,Afternoon,Weekday,13672
+12,08-03-2024,income,Salary,11109,No,Cash,Yes,Routine,Night,Weekday,
+13,09-03-2024,expense,Clothing,834,No,Debit Card,No,Seasonal,Morning,Weekend,14506
+14,10-03-2024,expense,Clothing,664,No,UPI,No,Seasonal,Evening,Weekend,15170
+15,10-03-2024,expense,Travel,1600,No,Net Banking,No,Seasonal,Afternoon,Weekend,16770
+16,11-03-2024,expense,Rent,3619,Yes,Cash,Yes,Unplanned,Night,Weekday,20389
+17,14-03-2024,expense,EMI,1332,Yes,Debit Card,Yes,Planned,Evening,Weekday,21721
+18,14-03-2024,expense,Groceries,532,Yes,Credit Card,No,Routine,Morning,Weekday,22253
+19,15-03-2024,expense,Mobile Recharge,108,Yes,Debit Card,No,Routine,Night,Weekday,22361
+20,15-03-2024,expense,Fuel,388,No,Cash,No,Unplanned,Afternoon,Weekday,22749
+21,16-03-2024,expense,Education,1329,Yes,Debit Card,No,Planned,Evening,Weekend,24078
+22,16-03-2024,savings,Fixed Deposit,1866,No,Credit Card,No,Routine,Afternoon,Weekend,
+23,16-03-2024,expense,Clothing,331,No,UPI,No,Seasonal,Morning,Weekend,24409
+24,17-03-2024,expense,Utilities,472,Yes,Debit Card,No,Routine,Evening,Weekend,24881
+25,17-03-2024,expense,Subscription,197,No,UPI,Yes,Unplanned,Morning,Weekend,25078
+26,18-03-2024,income,Freelance,2971,No,Credit Card,No,Routine,Morning,Weekday,
+27,19-03-2024,expense,Rent,3787,Yes,Cash,Yes,Planned,Night,Weekday,28865
+28,19-03-2024,expense,Education,2612,Yes,Cash,No,Planned,Afternoon,Weekday,31477
+29,19-03-2024,income,Bonus,6623,No,Net Banking,No,Planned,Evening,Weekday,
+30,19-03-2024,expense,Dining Out,300,No,Cash,No,Unplanned,Morning,Weekday,31777
+31,22-03-2024,expense,Rent,3518,Yes,UPI,Yes,Routine,Morning,Weekday,35295
+32,22-03-2024,expense,Travel,1304,No,UPI,No,Seasonal,Evening,Weekday,36599
+33,22-03-2024,savings,Mutual Fund,1106,No,Debit Card,No,Unplanned,Morning,Weekday,
+34,23-03-2024,expense,Clothing,763,No,Net Banking,No,Seasonal,Night,Weekend,37362
+35,25-03-2024,savings,Recurring Deposit,548,No,Cash,Yes,Routine,Night,Weekday,
+36,25-03-2024,expense,Dining Out,257,No,Debit Card,No,Unplanned,Night,Weekday,37619
+37,25-03-2024,income,Interest,138,No,Net Banking,No,Unplanned,Night,Weekday,
+38,25-03-2024,savings,Recurring Deposit,833,No,Debit Card,Yes,Planned,Morning,Weekday,
+39,26-03-2024,expense,Mobile Recharge,98,Yes,Cash,No,Routine,Evening,Weekday,37717
+40,27-03-2024,expense,Utilities,570,Yes,Debit Card,No,Routine,Evening,Weekday,38287
+41,28-03-2024,expense,Gift,653,No,Credit Card,No,Festive,Evening,Weekday,38940
+42,28-03-2024,expense,Subscription,286,No,UPI,Yes,Unplanned,Evening,Weekday,39226
+43,28-03-2024,income,Freelance,1262,No,Credit Card,No,Planned,Afternoon,Weekday,
+44,29-03-2024,expense,Medical,670,Yes,Cash,No,Emergency,Evening,Weekday,39896
+45,29-03-2024,savings,Gold,1625,No,Credit Card,No,Seasonal,Afternoon,Weekday,
+46,30-03-2024,expense,Education,3148,Yes,Cash,No,Planned,Afternoon,Weekend,43044
+47,31-03-2024,expense,Mobile Recharge,61,Yes,Debit Card,No,Routine,Night,Weekend,43105
+48,31-03-2024,expense,Fuel,292,No,UPI,No,Unplanned,Afternoon,Weekend,43397
+49,31-03-2024,expense,Fuel,169,No,Net Banking,No,Unplanned,Morning,Weekend,43566
+50,31-03-2024,expense,Groceries,924,Yes,Debit Card,No,Routine,Afternoon,Weekend,44490
+1,01-04-2024,expense,Mobile Recharge,109,Yes,Credit Card,No,Routine,Night,Weekday,109
+2,02-04-2024,expense,Subscription,141,No,Credit Card,Yes,Unplanned,Afternoon,Weekday,250
+3,02-04-2024,expense,Dining Out,184,No,Debit Card,No,Unplanned,Morning,Weekday,434
+4,02-04-2024,expense,Rent,5627,Yes,Debit Card,Yes,Unplanned,Morning,Weekday,6061
+5,02-04-2024,expense,Subscription,104,No,Debit Card,Yes,Unplanned,Morning,Weekday,6165
+6,02-04-2024,expense,Education,2347,Yes,UPI,No,Planned,Night,Weekday,8512
+7,02-04-2024,savings,Stock Investment,357,No,Debit Card,No,Routine,Night,Weekday,
+8,03-04-2024,expense,Clothing,388,No,Debit Card,No,Seasonal,Evening,Weekday,8900
+9,03-04-2024,expense,Entertainment,529,No,Credit Card,No,Unplanned,Night,Weekday,9429
+10,04-04-2024,expense,Dining Out,376,No,Cash,No,Unplanned,Morning,Weekday,9805
+11,05-04-2024,savings,Gold,2517,No,UPI,No,Seasonal,Morning,Weekday,
+12,05-04-2024,expense,Clothing,974,No,Net Banking,No,Seasonal,Night,Weekday,10779
+13,05-04-2024,expense,Mobile Recharge,154,Yes,Net Banking,No,Routine,Afternoon,Weekday,10933
+14,07-04-2024,expense,Dining Out,347,No,Cash,No,Unplanned,Night,Weekend,11280
+15,07-04-2024,expense,Education,1468,Yes,Cash,No,Planned,Night,Weekend,12748
+16,07-04-2024,expense,Medical,559,Yes,Debit Card,No,Emergency,Morning,Weekend,13307
+17,08-04-2024,expense,Groceries,701,Yes,Cash,No,Routine,Evening,Weekday,14008
+18,09-04-2024,expense,Mobile Recharge,247,Yes,Cash,No,Routine,Morning,Weekday,14255
+19,09-04-2024,expense,Clothing,434,No,UPI,No,Seasonal,Evening,Weekday,14689
+20,09-04-2024,expense,Utilities,692,Yes,UPI,No,Routine,Morning,Weekday,15381
+21,10-04-2024,income,Interest,60,No,Credit Card,No,Routine,Night,Weekday,
+22,10-04-2024,expense,Utilities,807,Yes,Net Banking,No,Routine,Morning,Weekday,16188
+23,10-04-2024,expense,Rent,5735,Yes,UPI,Yes,Planned,Morning,Weekday,21923
+24,10-04-2024,savings,Piggy Bank,247,No,Credit Card,No,Planned,Morning,Weekday,
+25,11-04-2024,expense,Medical,2676,Yes,Credit Card,No,Emergency,Night,Weekday,24599
+26,12-04-2024,savings,Recurring Deposit,797,No,Debit Card,Yes,Routine,Night,Weekday,
+27,12-04-2024,expense,Mobile Recharge,70,Yes,Credit Card,No,Routine,Night,Weekday,24669
+28,12-04-2024,expense,Education,3112,Yes,Debit Card,No,Planned,Night,Weekday,27781
+29,12-04-2024,expense,Entertainment,484,No,Net Banking,No,Unplanned,Evening,Weekday,28265
+30,13-04-2024,expense,Entertainment,426,No,UPI,No,Unplanned,Evening,Weekend,28691
+31,13-04-2024,expense,Travel,2561,No,Debit Card,No,Seasonal,Afternoon,Weekend,31252
+32,13-04-2024,expense,Dining Out,377,No,Net Banking,No,Unplanned,Night,Weekend,31629
+33,14-04-2024,income,Interest,286,No,Net Banking,No,Planned,Evening,Weekend,
+34,14-04-2024,income,Interest,335,No,Debit Card,No,Routine,Morning,Weekend,
+35,14-04-2024,expense,Clothing,1326,No,Credit Card,No,Seasonal,Night,Weekend,32955
+36,14-04-2024,expense,Medical,2153,Yes,Debit Card,No,Emergency,Afternoon,Weekend,35108
+37,15-04-2024,expense,Medical,2303,Yes,Net Banking,No,Emergency,Afternoon,Weekday,37411
+38,16-04-2024,expense,Entertainment,336,No,Cash,No,Unplanned,Afternoon,Weekday,37747
+39,17-04-2024,expense,Clothing,981,No,UPI,No,Seasonal,Morning,Weekday,38728
+40,17-04-2024,expense,Clothing,516,No,Debit Card,No,Seasonal,Evening,Weekday,39244
+41,18-04-2024,expense,EMI,2068,Yes,Cash,Yes,Planned,Morning,Weekday,41312
+42,18-04-2024,expense,EMI,2380,Yes,Credit Card,Yes,Planned,Night,Weekday,43692
+43,18-04-2024,expense,EMI,2148,Yes,Debit Card,Yes,Planned,Afternoon,Weekday,45840
+44,19-04-2024,expense,Rent,5537,Yes,UPI,Yes,Unplanned,Morning,Weekday,51377
+45,20-04-2024,expense,Travel,2948,No,Debit Card,No,Seasonal,Morning,Weekend,54325
+46,21-04-2024,savings,Mutual Fund,384,No,Net Banking,No,Planned,Evening,Weekend,
+47,22-04-2024,expense,Travel,1922,No,Net Banking,No,Seasonal,Evening,Weekday,56247
+48,22-04-2024,expense,Mobile Recharge,117,Yes,Net Banking,No,Routine,Afternoon,Weekday,56364
+49,23-04-2024,expense,Fuel,699,No,Net Banking,No,Unplanned,Morning,Weekday,57063
+50,23-04-2024,expense,Mobile Recharge,140,Yes,Credit Card,No,Routine,Morning,Weekday,57203
+51,23-04-2024,expense,Entertainment,179,No,Net Banking,No,Unplanned,Evening,Weekday,57382
+52,23-04-2024,expense,Entertainment,654,No,UPI,No,Unplanned,Morning,Weekday,58036
+53,24-04-2024,expense,Entertainment,193,No,Cash,No,Unplanned,Morning,Weekday,58229
+54,25-04-2024,expense,Dining Out,182,No,Debit Card,No,Unplanned,Morning,Weekday,58411
+55,25-04-2024,expense,Groceries,1418,Yes,Cash,No,Routine,Evening,Weekday,59829
+56,26-04-2024,expense,Clothing,672,No,Credit Card,No,Seasonal,Afternoon,Weekday,60501
+57,27-04-2024,expense,Gift,907,No,UPI,No,Festive,Night,Weekend,61408
+58,28-04-2024,expense,Mobile Recharge,146,Yes,Debit Card,No,Routine,Afternoon,Weekend,61554
+59,28-04-2024,expense,Education,2800,Yes,Net Banking,No,Planned,Night,Weekend,64354
+60,29-04-2024,expense,Medical,851,Yes,Credit Card,No,Emergency,Morning,Weekday,65205
+61,29-04-2024,expense,Fuel,182,No,Debit Card,No,Unplanned,Afternoon,Weekday,65387
+62,29-04-2024,income,Freelance,3734,No,Debit Card,No,Planned,Night,Weekday,
+63,30-04-2024,expense,Mobile Recharge,194,Yes,Net Banking,No,Routine,Evening,Weekday,65581
+1,01-05-2024,expense,EMI,2713,Yes,UPI,Yes,Planned,Evening,Weekday,2713
+2,02-05-2024,expense,Dining Out,204,No,Credit Card,No,Unplanned,Afternoon,Weekday,2917
+3,03-05-2024,expense,Subscription,142,No,UPI,Yes,Routine,Afternoon,Weekday,3059
+4,03-05-2024,income,Freelance,3160,No,Cash,No,Planned,Morning,Weekday,
+5,03-05-2024,savings,Piggy Bank,164,No,UPI,No,Planned,Afternoon,Weekday,
+6,04-05-2024,expense,EMI,1765,Yes,Credit Card,Yes,Planned,Morning,Weekend,4824
+7,04-05-2024,expense,Education,2145,Yes,Debit Card,No,Planned,Morning,Weekend,6969
+8,04-05-2024,expense,Rent,2683,Yes,Debit Card,Yes,Unplanned,Evening,Weekend,9652
+9,05-05-2024,expense,Gift,565,No,Cash,No,Festive,Evening,Weekend,10217
+10,05-05-2024,income,Salary,8111,No,Cash,Yes,Planned,Night,Weekend,
+11,06-05-2024,expense,Dining Out,268,No,Credit Card,No,Unplanned,Evening,Weekday,10485
+12,06-05-2024,expense,Medical,1616,Yes,Net Banking,No,Emergency,Evening,Weekday,12101
+13,06-05-2024,expense,Medical,1098,Yes,Credit Card,No,Emergency,Afternoon,Weekday,13199
+14,06-05-2024,expense,Groceries,1243,Yes,Credit Card,No,Routine,Evening,Weekday,14442
+15,07-05-2024,expense,Utilities,756,Yes,Debit Card,No,Routine,Night,Weekday,15198
+16,07-05-2024,expense,Fuel,447,No,Debit Card,No,Unplanned,Afternoon,Weekday,15645
+17,10-05-2024,expense,Groceries,1074,Yes,UPI,No,Routine,Night,Weekday,16719
+18,10-05-2024,income,Interest,86,No,Net Banking,No,Unplanned,Evening,Weekday,
+19,10-05-2024,expense,Mobile Recharge,178,Yes,Net Banking,No,Routine,Night,Weekday,16897
+20,11-05-2024,expense,Travel,1511,No,Debit Card,No,Seasonal,Afternoon,Weekend,18408
+21,12-05-2024,expense,Subscription,188,No,UPI,Yes,Routine,Morning,Weekend,18596
+22,12-05-2024,expense,Education,3366,Yes,Cash,No,Planned,Night,Weekend,21962
+23,12-05-2024,savings,Piggy Bank,125,No,Credit Card,No,Planned,Night,Weekend,
+24,13-05-2024,expense,Travel,1822,No,Cash,No,Seasonal,Afternoon,Weekday,23784
+25,14-05-2024,expense,Fuel,449,No,Net Banking,No,Unplanned,Afternoon,Weekday,24233
+26,14-05-2024,savings,Mutual Fund,1118,No,UPI,No,Unplanned,Night,Weekday,
+27,15-05-2024,expense,EMI,1687,Yes,Cash,Yes,Planned,Evening,Weekday,25920
+28,15-05-2024,expense,Clothing,554,No,Debit Card,No,Seasonal,Night,Weekday,26474
+29,16-05-2024,expense,Fuel,499,No,UPI,No,Unplanned,Afternoon,Weekday,26973
+30,18-05-2024,expense,Medical,883,Yes,UPI,No,Emergency,Morning,Weekend,27856
+31,18-05-2024,expense,Mobile Recharge,77,Yes,Debit Card,No,Routine,Morning,Weekend,27933
+32,19-05-2024,expense,Groceries,629,Yes,Net Banking,No,Routine,Evening,Weekend,28562
+33,19-05-2024,expense,Dining Out,273,No,Cash,No,Unplanned,Night,Weekend,28835
+34,19-05-2024,expense,EMI,1196,Yes,UPI,Yes,Planned,Morning,Weekend,30031
+35,19-05-2024,expense,Subscription,169,No,Net Banking,Yes,Routine,Night,Weekend,30200
+36,20-05-2024,expense,Groceries,699,Yes,Cash,No,Routine,Afternoon,Weekday,30899
+37,20-05-2024,expense,Groceries,508,Yes,Debit Card,No,Routine,Morning,Weekday,31407
+38,20-05-2024,expense,Mobile Recharge,170,Yes,Credit Card,No,Routine,Evening,Weekday,31577
+39,20-05-2024,expense,Travel,1447,No,UPI,No,Seasonal,Afternoon,Weekday,33024
+40,20-05-2024,expense,Subscription,47,No,Cash,Yes,Planned,Evening,Weekday,33071
+41,21-05-2024,expense,EMI,1247,Yes,UPI,Yes,Planned,Afternoon,Weekday,34318
+42,21-05-2024,expense,Utilities,857,Yes,Cash,No,Routine,Morning,Weekday,35175
+43,22-05-2024,savings,Gold,1408,No,UPI,No,Seasonal,Evening,Weekday,
+44,23-05-2024,expense,Education,2782,Yes,Credit Card,No,Planned,Evening,Weekday,37957
+45,23-05-2024,expense,Dining Out,216,No,Net Banking,No,Unplanned,Afternoon,Weekday,38173
+46,24-05-2024,expense,Dining Out,95,No,Cash,No,Unplanned,Evening,Weekday,38268
+47,24-05-2024,expense,Gift,782,No,Credit Card,No,Festive,Afternoon,Weekday,39050
+48,24-05-2024,expense,Utilities,828,Yes,Cash,No,Routine,Afternoon,Weekday,39878
+49,25-05-2024,expense,Travel,810,No,Credit Card,No,Seasonal,Afternoon,Weekend,40688
+50,25-05-2024,expense,Clothing,644,No,Debit Card,No,Seasonal,Afternoon,Weekend,41332
+51,26-05-2024,expense,EMI,2291,Yes,Net Banking,Yes,Planned,Morning,Weekend,43623
+52,26-05-2024,expense,Medical,1760,Yes,Cash,No,Emergency,Afternoon,Weekend,45383
+53,27-05-2024,expense,Gift,448,No,UPI,No,Festive,Night,Weekday,45831
+54,27-05-2024,expense,Utilities,500,Yes,Cash,No,Routine,Evening,Weekday,46331
+55,28-05-2024,expense,Clothing,375,No,Credit Card,No,Seasonal,Night,Weekday,46706
+56,28-05-2024,income,Interest,186,No,Cash,No,Routine,Morning,Weekday,
+57,29-05-2024,savings,Fixed Deposit,4267,No,Credit Card,No,Planned,Night,Weekday,
+58,29-05-2024,expense,Dining Out,308,No,Debit Card,No,Unplanned,Evening,Weekday,47014
+59,29-05-2024,expense,Gift,447,No,Debit Card,No,Festive,Night,Weekday,47461
+60,30-05-2024,expense,Groceries,963,Yes,Debit Card,No,Routine,Morning,Weekday,48424
+61,30-05-2024,expense,Dining Out,143,No,Cash,No,Unplanned,Afternoon,Weekday,48567
+62,30-05-2024,expense,Education,3042,Yes,Cash,No,Planned,Night,Weekday,51609
+63,31-05-2024,expense,Gift,772,No,Net Banking,No,Festive,Morning,Weekday,52381
+64,31-05-2024,expense,Gift,527,No,Credit Card,No,Festive,Morning,Weekday,52908
+1,01-06-2024,income,Freelance,1957,No,Cash,No,Routine,Evening,Weekend,
+2,02-06-2024,expense,Groceries,365,Yes,Net Banking,No,Routine,Evening,Weekend,365
+3,02-06-2024,expense,Medical,924,Yes,Net Banking,No,Emergency,Night,Weekend,1289
+4,03-06-2024,income,Salary,10177,No,Credit Card,Yes,Routine,Afternoon,Weekday,
+5,03-06-2024,expense,Fuel,105,No,Cash,No,Unplanned,Morning,Weekday,1394
+6,03-06-2024,expense,Dining Out,141,No,Cash,No,Unplanned,Night,Weekday,1535
+7,03-06-2024,expense,Travel,501,No,Credit Card,No,Seasonal,Morning,Weekday,2036
+8,04-06-2024,expense,Entertainment,97,No,Cash,No,Unplanned,Morning,Weekday,2133
+9,05-06-2024,savings,Recurring Deposit,271,No,Debit Card,Yes,Unplanned,Afternoon,Weekday,
+10,05-06-2024,income,Salary,11089,No,Cash,Yes,Routine,Afternoon,Weekday,
+11,06-06-2024,expense,Education,957,Yes,Cash,No,Planned,Night,Weekday,3090
+12,07-06-2024,expense,Clothing,446,No,Cash,No,Seasonal,Afternoon,Weekday,3536
+13,07-06-2024,income,Salary,7491,No,Cash,Yes,Planned,Afternoon,Weekday,
+14,07-06-2024,expense,Utilities,803,Yes,UPI,No,Routine,Night,Weekday,4339
+15,07-06-2024,expense,Mobile Recharge,75,Yes,Credit Card,No,Routine,Afternoon,Weekday,4414
+16,07-06-2024,savings,Fixed Deposit,1436,No,Credit Card,No,Planned,Evening,Weekday,
+17,08-06-2024,expense,Dining Out,197,No,Cash,No,Unplanned,Morning,Weekend,4611
+18,08-06-2024,expense,Rent,1644,Yes,Cash,Yes,Unplanned,Morning,Weekend,6255
+19,08-06-2024,expense,Entertainment,125,No,Net Banking,No,Unplanned,Morning,Weekend,6380
+20,08-06-2024,income,Interest,123,No,Cash,No,Planned,Morning,Weekend,
+21,09-06-2024,expense,EMI,1185,Yes,Net Banking,Yes,Planned,Night,Weekend,7565
+22,09-06-2024,expense,Dining Out,197,No,Net Banking,No,Unplanned,Morning,Weekend,7762
+23,09-06-2024,expense,Medical,502,Yes,Debit Card,No,Emergency,Morning,Weekend,8264
+24,10-06-2024,expense,Fuel,278,No,Cash,No,Unplanned,Morning,Weekday,8542
+25,10-06-2024,expense,Subscription,85,No,Cash,Yes,Planned,Morning,Weekday,8627
+26,10-06-2024,income,Freelance,713,No,Net Banking,No,Planned,Evening,Weekday,
+27,10-06-2024,expense,Entertainment,136,No,Credit Card,No,Unplanned,Morning,Weekday,8763
+28,11-06-2024,income,Interest,145,No,Net Banking,No,Routine,Evening,Weekday,
+29,11-06-2024,savings,Stock Investment,628,No,UPI,No,Routine,Night,Weekday,
+30,13-06-2024,income,Interest,107,No,Credit Card,No,Planned,Afternoon,Weekday,
+31,13-06-2024,savings,Recurring Deposit,499,No,Credit Card,Yes,Unplanned,Morning,Weekday,
+32,14-06-2024,expense,Education,1230,Yes,Cash,No,Planned,Afternoon,Weekday,9993
+33,14-06-2024,expense,Clothing,315,No,Net Banking,No,Seasonal,Afternoon,Weekday,10308
+34,14-06-2024,expense,Travel,1475,No,UPI,No,Seasonal,Night,Weekday,11783
+35,15-06-2024,expense,Utilities,592,Yes,Cash,No,Routine,Afternoon,Weekend,12375
+36,15-06-2024,expense,EMI,1882,Yes,Cash,Yes,Planned,Evening,Weekend,14257
+37,19-06-2024,expense,Groceries,367,Yes,Net Banking,No,Routine,Afternoon,Weekday,14624
+38,21-06-2024,expense,Education,2325,Yes,Net Banking,No,Planned,Afternoon,Weekday,16949
+39,22-06-2024,savings,Gold,1056,No,Debit Card,No,Seasonal,Afternoon,Weekend,
+40,22-06-2024,income,Interest,162,No,Net Banking,No,Routine,Morning,Weekend,
+41,23-06-2024,expense,Groceries,390,Yes,Cash,No,Routine,Morning,Weekend,17339
+42,24-06-2024,savings,Piggy Bank,108,No,Debit Card,No,Unplanned,Evening,Weekday,
+43,25-06-2024,expense,Dining Out,240,No,Net Banking,No,Unplanned,Evening,Weekday,17579
+44,26-06-2024,income,Freelance,925,No,UPI,No,Planned,Morning,Weekday,
+45,26-06-2024,expense,Travel,1504,No,Net Banking,No,Seasonal,Evening,Weekday,19083
+46,26-06-2024,savings,Mutual Fund,422,No,UPI,No,Planned,Morning,Weekday,
+47,26-06-2024,expense,Fuel,166,No,UPI,No,Unplanned,Night,Weekday,19249
+48,27-06-2024,expense,Medical,1053,Yes,Debit Card,No,Emergency,Afternoon,Weekday,20302
+49,27-06-2024,expense,Groceries,885,Yes,Net Banking,No,Routine,Afternoon,Weekday,21187
+50,27-06-2024,expense,Rent,2619,Yes,Debit Card,Yes,Routine,Evening,Weekday,23806
+51,27-06-2024,expense,Rent,2540,Yes,Cash,Yes,Planned,Morning,Weekday,26346
+52,28-06-2024,expense,Dining Out,192,No,Net Banking,No,Unplanned,Morning,Weekday,26538
+53,28-06-2024,expense,Travel,1217,No,Credit Card,No,Seasonal,Evening,Weekday,27755
+54,30-06-2024,expense,EMI,1798,Yes,Credit Card,Yes,Planned,Morning,Weekend,29553
+55,30-06-2024,income,Interest,147,No,Debit Card,No,Routine,Night,Weekend,
